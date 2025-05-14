@@ -87,9 +87,53 @@
             border-bottom: 2px solid #007bff;
             padding-bottom: 5px;
         }
+        #patientList {
+            width: 100%;
+            height: 100px;
+            margin-bottom: 10px;
+            resize: vertical;
+        }
+        .patient-controls {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 15px;
+        }
+        .patient-controls button {
+            flex: 1;
+        }
+        #currentPatient {
+            background-color: #e9ecef;
+            padding: 10px;
+            border-radius: 4px;
+            margin-bottom: 10px;
+            display: none;
+        }
+        .progress-info {
+            text-align: center;
+            margin: 10px 0;
+            font-weight: bold;
+            color: #007bff;
+        }
     </style>
 </head>
 <body>
+    <div class="section">
+        <div class="section-title">Lista de Pacientes</div>
+        <div class="form-group">
+            <label for="patientList">Pegar lista (formato: número_afiliado,diagnóstico,presión_alta,presión_baja):</label>
+            <textarea id="patientList" placeholder="Ejemplo:&#10;123456,I10,120,80&#10;789012,I10,130,85"></textarea>
+        </div>        <div class="patient-controls">
+            <button id="loadPatients">📥 Cargar Lista</button>
+            <button id="prevPatient">⬅️ Anterior</button>
+            <button id="nextPatient">➡️ Siguiente</button>
+        </div>
+        <div id="currentPatient">
+            <strong>Paciente Actual:</strong>
+            <span id="patientInfo"></span>
+        </div>
+        <div class="progress-info" id="progressInfo"></div>
+    </div>
+
     <div class="section">
         <div class="section-title">Datos del Afiliado</div>
         <div class="form-group">

@@ -5,9 +5,7 @@
     "description": "Extensión para autocompletar formularios de PAMI",
     "permissions": [
         "activeTab",
-        "scripting",
-        "storage",
-        "tabs"
+        "storage"
     ],
     "host_permissions": [
         "http://localhost:5000/*",

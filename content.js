@@ -234,14 +234,155 @@ async function fillForm(data) {
             }
         ]);
         
-        await delay(500);
+        await delay(800);        // Guardar el formulario y esperar que el usuario maneje los primeros dos popups
+        await guardarFormulario();
+        
+        // Esperar un tiempo para que el usuario maneje los popups manualmente
+        await delay(800); // Reducido de 5000 a 2000 ms
 
-        // Guardar formulario
-        await clickElement("#of-aceptar");
+        // Iniciar la secuencia de finalización
+        await handleFinalizacion();
 
-        console.log("Formulario completado exitosamente");
+        console.log("Formulario completado y finalizado exitosamente");
     } catch (error) {
         console.error("Error al llenar el formulario:", error);
+        throw error;
+    }
+}
+
+// Función para manejar la secuencia de finalización
+async function handleFinalizacion() {
+    try {
+        // Esperar a que el botón Finalizar esté disponible
+        let finalizarButton = null;
+        let intentos = 0;
+        while (!finalizarButton && intentos < 20) {
+            finalizarButton = document.querySelector('#pe-btn-generar-orden');
+            if (!finalizarButton) {
+                await delay(500);
+                intentos++;
+            }
+        }
+
+        if (!finalizarButton) {
+            throw new Error('No se encontró el botón Finalizar');
+        }
+
+        console.log('Botón Finalizar encontrado, haciendo clic...');
+        finalizarButton.click();
+        await delay(1000);
+
+        // Esperar y hacer clic en el botón Confirmar
+        let confirmarButton = null;
+        intentos = 0;
+        while (!confirmarButton && intentos < 20) {
+            confirmarButton = document.querySelector('#pe-btn-confirmar-generar-orden');
+            if (!confirmarButton) {
+                await delay(500);
+                intentos++;
+            }
+        }
+
+        if (!confirmarButton) {
+            throw new Error('No se encontró el botón Confirmar');
+        }
+
+        console.log('Botón Confirmar encontrado, haciendo clic...');
+        confirmarButton.click();
+        await delay(1000);        // Esperar y hacer clic en el botón cerrar (x)
+        let cerrarButton = null;
+        intentos = 0;
+        while (!cerrarButton && intentos < 20) {
+            cerrarButton = document.querySelector("body > div.alert.rin-alert.text-center.alert-success > button > span");
+            if (!cerrarButton) {
+                await delay(500);
+                intentos++;
+            }
+        }
+
+        if (!cerrarButton) {
+            throw new Error('No se encontró el botón cerrar');
+        }
+
+        console.log('Botón cerrar encontrado, haciendo clic...');
+        cerrarButton.click();
+
+    } catch (error) {
+        console.error('Error en la secuencia de finalización:', error);
+        throw error;
+    }
+}
+
+// Función para manejar los popups secuenciales
+async function handleSequentialPopups() {
+    try {
+        // Esperar por los popups y manejarlos secuencialmente
+        for (let i = 0; i < 3; i++) {
+            await new Promise(resolve => {
+                const checkPopup = setInterval(() => {
+                    // Buscar botones de aceptar en cualquier modal visible
+                    const aceptarButtons = Array.from(document.querySelectorAll('button')).filter(button => {
+                        return button.offsetParent !== null && // Asegurarse que el botón es visible
+                            (button.textContent.includes('Aceptar') ||
+                             button.classList.contains('btn-primary'));
+                    });
+
+                    if (aceptarButtons.length > 0) {
+                        console.log(`Popup ${i + 1}: Encontrado botón aceptar`);
+                        // Simular presionar Enter y hacer clic
+                        aceptarButtons[0].dispatchEvent(new KeyboardEvent('keydown', {
+                            key: 'Enter',
+                            code: 'Enter',
+                            keyCode: 13,
+                            bubbles: true
+                        }));
+                        aceptarButtons[0].click();
+                        clearInterval(checkPopup);
+                        resolve();
+                    }
+                }, 500);
+
+                // Timeout después de 5 segundos si no se encuentra el popup
+                setTimeout(() => {
+                    clearInterval(checkPopup);
+                    console.log(`Popup ${i + 1}: Timeout esperando`);
+                    resolve();
+                }, 5000);
+            });
+
+            // Esperar entre popups
+            await delay(1000);
+        }
+    } catch (error) {
+        console.error('Error manejando popups:', error);
+    }
+}
+
+// Función para guardar el formulario
+async function guardarFormulario() {
+    try {
+        // Buscar el botón guardar
+        const guardarButton = document.querySelector('#of-aceptar');
+        if (!guardarButton) {
+            throw new Error('No se encontró el botón guardar');
+        }
+
+        // Simular presionar Enter y hacer clic en el botón
+        guardarButton.dispatchEvent(new KeyboardEvent('keydown', {
+            key: 'Enter',
+            code: 'Enter',
+            keyCode: 13,
+            bubbles: true
+        }));
+        guardarButton.click();
+        console.log('Botón guardar presionado');
+
+        // Manejar los popups subsecuentes
+        await handleSequentialPopups();
+
+    } catch (error) {
+        console.error('Error al guardar el formulario:', error);
+        throw error;
     }
 }
 
