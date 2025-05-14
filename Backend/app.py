@@ -1,3 +1,7 @@
+#pip install -r requirements.txt
+#pip freeze > requirements.txt
+
+
 from flask import Flask, jsonify, request
 from flask_cors import CORS
 

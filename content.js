@@ -79,29 +79,96 @@ async function fillForm(data) {
 
         // Clic en botón de búsqueda de diagnóstico
         await clickElement("pe-btn-bsq-diagnostico");
-        await delay(500);
-
-        // Escribir diagnóstico asegurándonos de que el campo esté limpio
+        await delay(500);        // Configurar y realizar la búsqueda de diagnóstico
+        const criterioSelect = document.getElementById("bsq_avz_diagnostico_criterio");
         const inputDiagnostico = document.getElementById("bsq_avz_diagnostico_valor");
-        if (inputDiagnostico) {
-            inputDiagnostico.value = '';  // Primero limpiamos
-            await delay(200);
-            inputDiagnostico.value = diagnostico;  // Luego escribimos el nuevo valor
+        
+        if (criterioSelect && inputDiagnostico) {
+            // Limpiar el campo de búsqueda
+            inputDiagnostico.value = '';
+            await delay(500);
+
+            // Determinar si el diagnóstico es un código
+            const esCodigo = /^[A-Z0-9]+$/.test(diagnostico.trim());
+            
+            // Establecer el criterio de búsqueda
+            criterioSelect.value = esCodigo ? 'cod' : 'desc';
+            criterioSelect.dispatchEvent(new Event('change', { bubbles: true }));
+            await delay(500);
+
+            // Ingresar el valor de búsqueda
+            inputDiagnostico.value = diagnostico.trim();
             inputDiagnostico.dispatchEvent(new Event('input', { bubbles: true }));
             inputDiagnostico.dispatchEvent(new Event('change', { bubbles: true }));
+            console.log(`Buscando diagnóstico por ${esCodigo ? 'código' : 'descripción'}: ${diagnostico}`);
         }
-        await delay(500);
-
-        // Clic en botón de búsqueda dentro del modal
-        await clickElement("#modal-busqueda-diagnostico button[type='submit']");
         await delay(1000);
 
-        // Seleccionar primer resultado
-        const results = document.querySelectorAll("#modal-busqueda-diagnostico td");
-        if (results.length > 0) {
-            results[0].click();
+        // Clic en botón de búsqueda y esperar resultados
+        await clickElement("#modal-busqueda-diagnostico button[type='submit']");
+        await delay(2000); // Aumentamos el tiempo de espera inicial
+
+        // Esperar a que se carguen los resultados y encontrar el diagnóstico correcto
+        let diagnosticoEncontrado = false;
+        await new Promise((resolve, reject) => {
+            let intentos = 0;
+            const maxIntentos = 15; // Aumentamos el número de intentos
+            const buscarDiagnostico = setInterval(async () => {
+                const results = document.querySelectorAll("#modal-busqueda-diagnostico table tbody tr");
+                  if (results.length > 0) {
+                    clearInterval(buscarDiagnostico);
+                    console.log(`Encontrados ${results.length} resultados de diagnóstico`);
+                    
+                    // Si estamos buscando por código, seleccionar el primer resultado
+                    const esCodigo = /^[A-Z0-9]+$/.test(diagnostico.trim());
+                    if (esCodigo) {
+                        console.log('Búsqueda por código: seleccionando primer resultado');
+                        results[0].querySelector('td').click();
+                        diagnosticoEncontrado = true;
+                    } else {
+                        // Si es búsqueda por descripción, intentar encontrar la mejor coincidencia
+                        for (let i = 0; i < results.length; i++) {
+                            const descripcion = results[i].cells[1]?.textContent?.trim() || '';
+                            console.log(`Comparando descripción: [${descripcion}]`);
+
+                            if (descripcion.toLowerCase().includes(diagnostico.toLowerCase())) {
+                                console.log('Encontrada coincidencia en descripción');
+                                results[i].querySelector('td').click();
+                                diagnosticoEncontrado = true;
+                                break;
+                            }
+                        }
+
+                        // Si no se encontró coincidencia en descripción, seleccionar el primer resultado
+                        if (!diagnosticoEncontrado && results.length > 0) {
+                            console.log('No se encontró coincidencia exacta, seleccionando primer resultado');
+                            results[0].querySelector('td').click();
+                            diagnosticoEncontrado = true;
+                        }
+                    }
+                    
+                    if (!diagnosticoEncontrado) {
+                        console.log("Diagnósticos disponibles:");
+                        results.forEach(row => console.log(row.textContent));
+                    }
+                    
+                    resolve();
+                }
+                
+                intentos++;
+                if (intentos >= maxIntentos) {
+                    clearInterval(buscarDiagnostico);
+                    console.log("Tiempo de espera agotado buscando diagnósticos");
+                    resolve();
+                }
+            }, 500);
+        });
+
+        if (!diagnosticoEncontrado) {
+            throw new Error("No se pudo encontrar el diagnóstico especificado");
         }
-        await delay(500);
+        
+        await delay(1000); // Espera adicional después de seleccionar
 
         // Buscar práctica
         await clickElement("pe-btn-bsq-practica");
