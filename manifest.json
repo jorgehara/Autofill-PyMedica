@@ -1,0 +1,30 @@
+{
+    "manifest_version": 3,
+    "name": "AutoFill PyMedica",
+    "version": "1.0",
+    "description": "Extensión para autocompletar formularios de PAMI",
+    "permissions": [
+        "activeTab",
+        "scripting",
+        "storage",
+        "tabs"
+    ],
+    "host_permissions": [
+        "http://localhost:5000/*",
+        "https://pe.pami.org.ar/*"
+    ],
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "background": {
+        "service_worker": "background.js",
+        "type": "module"
+    },
+    "content_scripts": [
+        {
+            "matches": ["https://pe.pami.org.ar/*", "http://pe.pami.org.ar/*"],
+            "js": ["content.js"],
+            "run_at": "document_idle"
+        }
+    ]
+}

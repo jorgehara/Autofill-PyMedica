@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AutoFill PyMedica</title>
+    <style>
+        body {
+            width: 300px;
+            padding: 15px;
+            font-family: Arial, sans-serif;
+        }
+        .form-group {
+            margin-bottom: 12px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+            color: #333;
+        }
+        input {
+            width: 100%;
+            padding: 8px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+        input:focus {
+            border-color: #007bff;
+            outline: none;
+            box-shadow: 0 0 0 2px rgba(0,123,255,0.25);
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: background-color 0.2s;
+        }
+        #fillForm {
+            background-color: #007bff;
+            color: white;
+        }
+        #fillForm:hover {
+            background-color: #0056b3;
+        }
+        #clearForm {
+            background-color: #dc3545;
+            color: white;
+        }        #clearForm:hover {
+            background-color: #c82333;
+        }
+        #statusMessage {
+            margin-top: 10px;
+            padding: 10px;
+            border-radius: 4px;
+            text-align: center;
+            font-weight: bold;
+        }
+        #statusMessage.success {
+            background-color: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        #statusMessage.error {
+            background-color: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+        .section {
+            background-color: #f8f9fa;
+            border: 1px solid #dee2e6;
+            border-radius: 4px;
+            padding: 12px;
+            /* margin-bottom: 15px; */
+        }
+        .section-title {
+            color: #007bff;
+            font-size: 16px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            border-bottom: 2px solid #007bff;
+            padding-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="section">
+        <div class="section-title">Datos del Afiliado</div>
+        <div class="form-group">
+            <label for="numAfiliado">Número de Afiliado:</label>
+            <input type="text" id="numAfiliado" placeholder="Ingrese número de afiliado">
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Diagnóstico</div>
+        <div class="form-group">
+            <label for="diagnostico">Código o Descripción:</label>
+            <input type="text" id="diagnostico" placeholder="Ej: I10 o Hipertensión">
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Presión Arterial</div>
+        <div class="form-group">
+            <label for="presionAlta">Presión Alta:</label>
+            <input type="text" id="presionAlta" placeholder="Ej: 120">
+        </div>
+        <div class="form-group">
+            <label for="presionBaja">Presión Baja:</label>
+            <input type="text" id="presionBaja" placeholder="Ej: 80">
+        </div>
+    </div>
+
+    <button id="fillForm">📝 Rellenar Formulario</button>
+    <button id="clearForm">🗑️ Limpiar Formulario</button>    <div id="statusMessage" style="display: none;"></div>
+    <script src="popup.js"></script>
+</body>
+</html>
