@@ -5,10 +5,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AutoFill PyMedica</title>
     <style>
+        :root {
+            --bg-color: #ffffff;
+            --text-color: #333333;
+            --section-bg: #f8f9fa;
+            --border-color: #dee2e6;
+            --input-bg: #ffffff;
+            --input-border: #ccc;
+        }
+
+        [data-theme="dark"] {
+            --bg-color: #1a1a1a;
+            --text-color: #ffffff;
+            --section-bg: #2d2d2d;
+            --border-color: #404040;
+            --input-bg: #333333;
+            --input-border: #404040;
+        }
+
         body {
             width: 300px;
             padding: 15px;
             font-family: Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            transition: all 0.3s ease;
         }
         .form-group {
             margin-bottom: 12px;
@@ -17,17 +38,19 @@
             display: block;
             margin-bottom: 5px;
             font-weight: bold;
-            color: #333;
+            color: var(--text-color);
         }
-        input {
+        input, textarea {
             width: 100%;
             padding: 8px;
             box-sizing: border-box;
-            border: 1px solid #ccc;
+            background-color: var(--input-bg);
+            color: var(--text-color);
+            border: 1px solid var(--input-border);
             border-radius: 4px;
             font-size: 14px;
         }
-        input:focus {
+        input:focus, textarea:focus {
             border-color: #007bff;
             outline: none;
             box-shadow: 0 0 0 2px rgba(0,123,255,0.25);
@@ -52,7 +75,8 @@
         #clearForm {
             background-color: #dc3545;
             color: white;
-        }        #clearForm:hover {
+        }        
+        #clearForm:hover {
             background-color: #c82333;
         }
         #statusMessage {
@@ -73,11 +97,11 @@
             border: 1px solid #f5c6cb;
         }
         .section {
-            background-color: #f8f9fa;
-            border: 1px solid #dee2e6;
+            background-color: var(--section-bg);
+            border: 1px solid var(--border-color);
             border-radius: 4px;
             padding: 12px;
-            /* margin-bottom: 15px; */
+            transition: all 0.3s ease;
         }
         .section-title {
             color: #007bff;
@@ -114,15 +138,69 @@
             font-weight: bold;
             color: #007bff;
         }
+        .mode-selector {
+            margin-bottom: 15px;
+            text-align: center;
+        }
+        .mode-selector button {
+            width: 48%;
+            margin: 0 1%;
+        }
+        .mode-selector button.active {
+            background-color: #28a745;
+            border-color: #28a745;
+        }
+        .time-section {
+            display: none;
+        }
+        .time-section.active {
+            display: block;
+        }
+        .time-inputs {
+            display: flex;
+            gap: 10px;
+        }
+        .time-inputs input {
+            width: 50%;
+        }
+        #theme-toggle {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background-color: transparent;
+            border: 2px solid var(--text-color);
+            color: var(--text-color);
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            padding: 0;
+            transition: all 0.3s ease;
+        }
+        #theme-toggle:hover {
+            background-color: var(--text-color);
+            color: var(--bg-color);
+        }
     </style>
 </head>
 <body>
-    <div class="section">
+    <button id="theme-toggle" title="Cambiar tema">👁️</button>
+    <div class="mode-selector">
+        <button id="modeAutoFill" class="active">📝 Modo AutoFill</button>
+        <button id="modeTurnos">🕒 Modo Turnos</button>
+    </div>
+
+    <div id="autoFillSection" class="section">
         <div class="section-title">Lista de Pacientes</div>
         <div class="form-group">
-            <label for="patientList">Pegar lista (formato: número_afiliado,diagnóstico,presión_alta,presión_baja):</label>
-            <textarea id="patientList" placeholder="Ejemplo:&#10;123456,I10,120,80&#10;789012,I10,130,85"></textarea>
-        </div>        <div class="patient-controls">
+            <label for="patientList">Pegar lista (formato: número_afiliado,diagnóstico,presión_alta,presión_baja,hora,minutos):</label>
+            <textarea id="patientList" placeholder="Ejemplo:&#10;123456,I10,120,80,07,30&#10;789012,I10,130,85,07,45"></textarea>
+        </div>
+        <div class="patient-controls">
             <button id="loadPatients">📥 Cargar Lista</button>
             <button id="prevPatient">⬅️ Anterior</button>
             <button id="nextPatient">➡️ Siguiente</button>
@@ -132,38 +210,72 @@
             <span id="patientInfo"></span>
         </div>
         <div class="progress-info" id="progressInfo"></div>
-    </div>
 
-    <div class="section">
-        <div class="section-title">Datos del Afiliado</div>
-        <div class="form-group">
-            <label for="numAfiliado">Número de Afiliado:</label>
-            <input type="text" id="numAfiliado" placeholder="Ingrese número de afiliado">
+        <div class="section">
+            <div class="section-title">Datos del Afiliado</div>
+            <div class="form-group">
+                <label for="numAfiliado">Número de Afiliado:</label>
+                <input type="text" id="numAfiliado" placeholder="Ingrese número de afiliado">
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title">Diagnóstico</div>
+            <div class="form-group">
+                <label for="diagnostico">Código o Descripción:</label>
+                <input type="text" id="diagnostico" placeholder="Ej: I10 o Hipertensión">
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title">Presión Arterial</div>
+            <div class="form-group">
+                <label for="presionAlta">Presión Alta:</label>
+                <input type="text" id="presionAlta" placeholder="Ej: 120">
+            </div>
+            <div class="form-group">
+                <label for="presionBaja">Presión Baja:</label>
+                <input type="text" id="presionBaja" placeholder="Ej: 80">
+            </div>
         </div>
     </div>
 
-    <div class="section">
-        <div class="section-title">Diagnóstico</div>
+    <div id="turnosSection" class="section time-section">
+        <div class="section-title">Configuración de Turnos</div>
         <div class="form-group">
-            <label for="diagnostico">Código o Descripción:</label>
-            <input type="text" id="diagnostico" placeholder="Ej: I10 o Hipertensión">
+            <label for="fechaTurno">Fecha de Turnos:</label>
+            <input type="date" id="fechaTurno" class="form-control">
         </div>
+        <div class="form-group">
+            <label>Horario Inicial Mañana:</label>
+            <div class="time-inputs">
+                <input type="number" id="horaInicialManana" min="7" max="12" value="7" placeholder="Hora">
+                <input type="number" id="minutoInicialManana" min="0" max="59" step="15" value="30" placeholder="Minuto">
+            </div>
+        </div>
+        <div class="form-group">
+            <label>Horario Final Mañana:</label>
+            <div class="time-inputs">
+                <input type="number" id="horaFinalManana" min="7" max="12" value="12" placeholder="Hora">
+                <input type="number" id="minutoFinalManana" min="0" max="59" step="15" value="30" placeholder="Minuto">
+            </div>
+        </div>
+        <div class="form-group">
+            <label>Horario Inicial Tarde:</label>
+            <div class="time-inputs">
+                <input type="number" id="horaInicialTarde" min="16" max="20" value="16" placeholder="Hora">
+                <input type="number" id="minutoInicialTarde" min="0" max="59" step="15" value="0" placeholder="Minuto">
+            </div>
+        </div>
+        <div class="progress-info" id="turnosProgressInfo"></div>
     </div>
 
-    <div class="section">
-        <div class="section-title">Presión Arterial</div>
-        <div class="form-group">
-            <label for="presionAlta">Presión Alta:</label>
-            <input type="text" id="presionAlta" placeholder="Ej: 120">
-        </div>
-        <div class="form-group">
-            <label for="presionBaja">Presión Baja:</label>
-            <input type="text" id="presionBaja" placeholder="Ej: 80">
-        </div>
+    <div id="actionButtons">
+        <button id="fillForm" class="action-button">📝 Rellenar Formulario</button>
+        <button id="assignTurnos" class="action-button" style="display: none;">🕒 Asignar Turnos</button>
+        <button id="clearForm">🗑️ Limpiar Formulario</button>
     </div>
-
-    <button id="fillForm">📝 Rellenar Formulario</button>
-    <button id="clearForm">🗑️ Limpiar Formulario</button>    <div id="statusMessage" style="display: none;"></div>
+    <div id="statusMessage" style="display: none;"></div>
     <script src="popup.js"></script>
 </body>
 </html>

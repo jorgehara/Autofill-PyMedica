@@ -15,6 +15,11 @@ chrome.runtime.onMessage.addListener(
             clearForm()
                 .then(() => sendResponse({success: true, message: "Formulario limpiado exitosamente"}))
                 .catch(error => sendResponse({success: false, message: error.message}));
+        } else if (request.action === "assignTurno") {
+            console.log("Iniciando asignación de turno:", request.data);
+            assignTurno(request.data)
+                .then(() => sendResponse({success: true, message: "Turno asignado exitosamente"}))
+                .catch(error => sendResponse({success: false, message: error.message}));
         }
         return true; // Mantiene la conexión abierta para la respuesta asíncrona
     }
@@ -423,6 +428,127 @@ async function clearForm() {
     } catch (error) {
         console.error("Error al limpiar el formulario:", error);
     }
+}
+
+// Función para asignar un turno
+async function assignTurno(data) {
+    try {
+        const { patient, turnoData } = data;
+        console.log("Asignando turno para:", patient.numAfiliado);
+
+        // Ingresar número de afiliado
+        const inputAfiliado = document.querySelector("input[name='n_afiliado']");
+        if (!inputAfiliado) {
+            throw new Error("No se encontró el campo de número de afiliado");
+        }
+
+        inputAfiliado.value = patient.numAfiliado;
+        inputAfiliado.dispatchEvent(new Event('input', { bubbles: true }));
+        inputAfiliado.dispatchEvent(new KeyboardEvent('keypress', {
+            key: 'Enter',
+            code: 'Enter',
+            keyCode: 13,
+            bubbles: true
+        }));
+
+        await delay(1000);
+
+        // Buscar y hacer clic en el botón de asignación de turno
+        const botonTurno = document.querySelector("i.boton-historial.btn-sm.btn-success.fas.fa-check[data-modalidad='POR PRESTACION']");
+        if (!botonTurno) {
+            throw new Error("No se encontró el botón para asignar turno");
+        }
+
+        botonTurno.click();
+        await delay(1000);
+
+        // Hacer clic en el campo de fecha y establecer la fecha
+        const inputFecha = document.querySelector("input.form-control.datepicker.fecha");
+        if (!inputFecha) {
+            throw new Error("No se encontró el campo de fecha");
+        }
+
+        inputFecha.click();
+        await delay(500);
+
+        inputFecha.dispatchEvent(new KeyboardEvent('keypress', {
+            key: 'Enter',
+            code: 'Enter',
+            keyCode: 13,
+            bubbles: true
+        }));
+
+        // Seleccionar la hora y minutos
+        const selectHora = document.querySelector("select.form-control.hora");
+        const selectMinuto = document.querySelector("select.form-control.minuto");
+
+        if (!selectHora || !selectMinuto) {
+            throw new Error("No se encontraron los selectores de hora y minuto");
+        }
+
+        // Determinar la hora y minutos basados en el horario actual
+        const { hora, minutos } = calcularHorarioTurno(turnoData);
+
+        selectHora.value = hora;
+        selectHora.dispatchEvent(new Event('change', { bubbles: true }));
+        
+        selectMinuto.value = minutos;
+        selectMinuto.dispatchEvent(new Event('change', { bubbles: true }));
+
+        await delay(500);
+
+        // Seleccionar el médico (KARDASZ, IVANA NOELIA)
+        const selectMedico = document.querySelector("select.form-control.bocas");
+        if (!selectMedico) {
+            throw new Error("No se encontró el selector de médico");
+        }
+
+        // Buscar la opción que contiene "KARDASZ"
+        const opcionMedico = Array.from(selectMedico.options).find(option => 
+            option.text.includes("KARDASZ"));
+
+        if (!opcionMedico) {
+            throw new Error("No se encontró el médico KARDASZ");
+        }
+
+        selectMedico.value = opcionMedico.value;
+        selectMedico.dispatchEvent(new Event('change', { bubbles: true }));
+        selectMedico.dispatchEvent(new KeyboardEvent('keypress', {
+            key: 'Enter',
+            code: 'Enter',
+            keyCode: 13,
+            bubbles: true
+        }));
+
+        await delay(1000);
+
+        console.log("Turno asignado exitosamente");
+    } catch (error) {
+        console.error("Error al asignar turno:", error);
+        throw error;
+    }
+}
+
+// Función para calcular el horario del turno
+function calcularHorarioTurno(turnoData) {
+    const horaActual = new Date().getHours();
+    const minutoActual = new Date().getMinutes();
+
+    let hora, minutos;
+
+    // Si es horario de mañana (entre 7:30 y 12:30)
+    if (horaActual >= 7 && horaActual < 12 || 
+        (horaActual === 12 && minutoActual <= 30)) {
+        hora = turnoData.horaInicial.manana.hora.toString().padStart(2, '0');
+        minutos = turnoData.horaInicial.manana.minuto.toString().padStart(2, '0');
+    }
+    // Si es horario de tarde (desde 16:00)
+    else {
+        hora = turnoData.horaInicial.tarde.hora.toString().padStart(2, '0');
+        minutos = turnoData.horaInicial.tarde.minuto.toString().padStart(2, '0');
+    }
+
+    return { hora, minutos };
 }
 
 // Funciones auxiliares

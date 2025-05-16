@@ -1,7 +1,7 @@
 def format_patient_list(input_file, output_file):
     """
     Lee una lista de pacientes de un archivo y la formatea según el formato requerido por el popup.
-    Formato de entrada: número_afiliado diagnóstico presión_alta presión_baja
+    Formato de entrada: número_afiliado diagnóstico presión_alta presión_baja hora minutos
     """
     try:
         with open(input_file, 'r', encoding='utf-8') as f:
@@ -11,9 +11,10 @@ def format_patient_list(input_file, output_file):
         for line in lines:
             # Limpiar espacios extras y dividir los campos
             fields = line.strip().split()
-            if len(fields) == 4:
-                num_afiliado, diagnostico, presion_alta, presion_baja = fields                # Formatear la línea según el formato requerido
-                formatted_line = f"{num_afiliado},{diagnostico},{presion_alta},{presion_baja}"
+            if len(fields) == 6:  # Ahora esperamos 6 campos
+                num_afiliado, diagnostico, presion_alta, presion_baja, hora, minutos = fields
+                # Formatear la línea según el formato requerido
+                formatted_line = f"{num_afiliado},{diagnostico},{presion_alta},{presion_baja},{hora},{minutos}"
                 formatted_lines.append(formatted_line)
 
         # Guardar las líneas formateadas
@@ -27,6 +28,9 @@ def format_patient_list(input_file, output_file):
         if formatted_lines:
             print("\nEjemplo del formato:")
             print(formatted_lines[0])
+            print("\nFormato esperado de entrada:")
+            print("numero_afiliado diagnostico presion_alta presion_baja hora minutos")
+            print("Ejemplo: 123456789 I10 120 80 08 30")
             
     except Exception as e:
         print(f"Error al procesar el archivo: {str(e)}")
