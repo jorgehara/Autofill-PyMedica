@@ -1,5 +1,9 @@
 #pip install -r requirements.txt
 #pip freeze > requirements.txt
+#create entorno python
+#python -m venv env
+#cd env/Scripts
+#env/bin/activate
 
 
 from flask import Flask, jsonify, request
