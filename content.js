@@ -204,37 +204,111 @@ async function fillForm(data) {
 
         // Abrir formulario de presión
         await clickElement("#pe-btn-form-427109");
-        await delay(500);
+        await delay(1000); // Aumentado el delay para asegurar que el formulario esté completamente cargado
 
-        // Llenar valores de presión
-        await setInputValues([
+        // Función para verificar y reintentar el llenado de campos
+        async function setInputValueWithRetry(selector, value, maxRetries = 3) {
+            for (let i = 0; i < maxRetries; i++) {
+                try {
+                    const element = document.querySelector(selector);
+                    if (!element) {
+                        console.log(`Intento ${i + 1}: Campo no encontrado: ${selector}`);
+                        await delay(1000);
+                        continue;
+                    }
+
+                    element.value = value;
+                    element.dispatchEvent(new Event('input', { bubbles: true }));
+                    element.dispatchEvent(new Event('change', { bubbles: true }));
+
+                    // Verificar si el valor se estableció correctamente
+                    await delay(500);
+                    if (element.value === value) {
+                        console.log(`Campo ${selector} rellenado exitosamente con: ${value}`);
+                        return true;
+                    }
+                    
+                    console.log(`Intento ${i + 1}: Valor no establecido correctamente en ${selector}`);
+                } catch (error) {
+                    console.error(`Error en intento ${i + 1} para ${selector}:`, error);
+                }
+                await delay(1000);
+            }
+            throw new Error(`No se pudo establecer el valor en ${selector} después de ${maxRetries} intentos`);
+        }
+
+        // Array con los campos a llenar y sus valores
+        const camposACompletar = [
             {
                 selector: ".of-form-control.ofl-input.ofl-arterial.of-ta-left",
-                value: presionAlta
+                value: presionAlta,
+                description: "Presión Alta"
             },
             {
                 selector: "#tension-2-1",
-                value: presionBaja
+                value: presionBaja,
+                description: "Presión Baja"
             },
             {
                 selector: "textarea#of-observaciones[preguntaid='221']",
-                value: diagnostico
+                value: diagnostico,
+                description: "Diagnóstico 1"
             },
             {
                 selector: "textarea#of-observaciones[preguntaid='223']",
-                value: diagnostico
+                value: diagnostico,
+                description: "Diagnóstico 2"
             },
             {
                 selector: "textarea#of-observaciones[preguntaid='224']",
-                value: "CONSULTA GRAL."
+                value: "CONSULTA GRAL.",
+                description: "Tipo Consulta"
             },
             {
                 selector: "textarea#of-observaciones[preguntaid='222']",
-                value: `REGISTRO TA ${presionAlta}/${presionBaja}`
+                value: `REGISTRO TA ${presionAlta}/${presionBaja}`,
+                description: "Registro TA"
             }
-        ]);
+        ];
+
+        // Intentar llenar cada campo y verificar
+        for (const campo of camposACompletar) {
+            try {
+                await setInputValueWithRetry(campo.selector, campo.value);
+            } catch (error) {
+                console.error(`Error al llenar ${campo.description}:`, error);
+                throw new Error(`No se pudo completar el campo ${campo.description}`);
+            }
+        }
+
+        // Verificación final antes de guardar
+        async function verificarCamposCompletos() {
+            let todosCamposCompletos = true;
+            for (const campo of camposACompletar) {
+                const element = document.querySelector(campo.selector);
+                if (!element || element.value !== campo.value) {
+                    console.log(`Verificación fallida para ${campo.description}`);
+                    todosCamposCompletos = false;
+                    break;
+                }
+            }
+            return todosCamposCompletos;
+        }
+
+        // Verificar y reintentar si es necesario
+        if (!await verificarCamposCompletos()) {
+            console.log("Reintentando llenar campos incompletos...");
+            for (const campo of camposACompletar) {
+                const element = document.querySelector(campo.selector);
+                if (!element || element.value !== campo.value) {
+                    await setInputValueWithRetry(campo.selector, campo.value);
+                }
+            }
+        }
         
-        await delay(800);        // Guardar el formulario y esperar que el usuario maneje los primeros dos popups
+        await delay(1000); // Delay adicional antes de guardar
+        // ===== FIN DE LA SECCIÓN DE LLENADO DE PRESIÓN Y DIAGNÓSTICO =====
+        // Guardar el formulario y esperar que el usuario maneje los primeros dos popups
         await guardarFormulario();
         
         // Esperar un tiempo para que el usuario maneje los popups manualmente
