@@ -1,0 +1,303 @@
+LISTADO DE AFILIADOS Y CANTIDAD DE RECETAS
+=========================================
+
+1. NOVIK NILDA
+   DNI: 4941385
+   Credencial: 8000012214
+   Cantidad de recetas: 5
+--------------------------------------------------
+2. ESPINOSA JOSE HIPOLITO
+   DNI: 14274648
+   Credencial: 8000563676
+   Cantidad de recetas: 4
+--------------------------------------------------
+3. ZUBCO KUVASZUK MIRTA LILIANA
+   DNI: 22933327
+   Credencial: 8000079505
+   Cantidad de recetas: 4
+--------------------------------------------------
+4. KURKAZ OLGA ELVIRA
+   DNI: 10569041
+   Credencial: 8000039789
+   Cantidad de recetas: 3
+--------------------------------------------------
+5. BERTINO PEDRO DANIEL
+   DNI: 7451655
+   Credencial: 8000026263
+   Cantidad de recetas: 3
+--------------------------------------------------
+6. KARDASZ IVANA NOELIA
+   DNI: 32664697
+   Credencial: 8000553453
+   Cantidad de recetas: 3
+--------------------------------------------------
+7. KOBLUK SAMUEL EMILIO
+   DNI: 17037705
+   Credencial: 8000576655
+   Cantidad de recetas: 3
+--------------------------------------------------
+8. MENDOZA HECTOR RAUL
+   DNI: 16945545
+   Credencial: 8000214561
+   Cantidad de recetas: 3
+--------------------------------------------------
+9. JARA KARDASZ MICAL
+   DNI: 59848842
+   Credencial: 8000620048
+   Cantidad de recetas: 2
+--------------------------------------------------
+10. KOTELCZUK OLGA
+   DNI: 10990353
+   Credencial: 8000041632
+   Cantidad de recetas: 2
+--------------------------------------------------
+11. GERGOFF PECHERINCOFF NORA MELI
+   DNI: 26826669
+   Credencial: 8000352758
+   Cantidad de recetas: 2
+--------------------------------------------------
+12. PANASIUK LOPEZ DEMIR JEREMY
+   DNI: 57602338
+   Credencial: 8000562521
+   Cantidad de recetas: 2
+--------------------------------------------------
+13. SKOKANDIC JUAN DOMINGO
+   DNI: 25600518
+   Credencial: 8000097917
+   Cantidad de recetas: 2
+--------------------------------------------------
+14. BRUHN GERONIMO
+   DNI: 57432391
+   Credencial: 8000561776
+   Cantidad de recetas: 2
+--------------------------------------------------
+15. ACOSTA MARTA ANDREA
+   DNI: 28340431
+   Credencial: 8000324323
+   Cantidad de recetas: 2
+--------------------------------------------------
+16. YONTSCHEFF ALEXA NABILA
+   DNI: 45046935
+   Credencial: 8000311444
+   Cantidad de recetas: 2
+--------------------------------------------------
+17. DOMINGUEZ SONIA VANESA
+   DNI: 28489664
+   Credencial: 8000327643
+   Cantidad de recetas: 2
+--------------------------------------------------
+18. PETCOFF ENRIQUE
+   DNI: 7897386
+   Credencial: 8000197722
+   Cantidad de recetas: 2
+--------------------------------------------------
+19. HOLUBEK LORENA BELEN
+   DNI: 33580899
+   Credencial: 8000627663
+   Cantidad de recetas: 2
+--------------------------------------------------
+20. BENITEZ INES VILMA VIVIANA
+   DNI: 17495661
+   Credencial: 8000343136
+   Cantidad de recetas: 2
+--------------------------------------------------
+21. ASSL GLADYS BEATRIZ
+   DNI: 29057937
+   Credencial: 8000339025
+   Cantidad de recetas: 2
+--------------------------------------------------
+22. FERNANDEZ, MATEO RAFAEL
+   DNI: 59811302
+   Credencial: 8000613376
+   Cantidad de recetas: 2
+--------------------------------------------------
+23. IVANOFF STOINOVSKY PEDRO
+   DNI: 16945583
+   Credencial: 8000067849
+   Cantidad de recetas: 2
+--------------------------------------------------
+24. KARDASZ SOLEDAD EUNICE
+   DNI: 34966508
+   Credencial: 8000627494
+   Cantidad de recetas: 2
+--------------------------------------------------
+25. MONTES LUCIANA MARISEL
+   DNI: 36671286
+   Credencial: 8000595359
+   Cantidad de recetas: 1
+--------------------------------------------------
+26. AGUIRRE ALEJANDRA RAMONA
+   DNI: 20603203
+   Credencial: 8000421663
+   Cantidad de recetas: 1
+--------------------------------------------------
+27. SOSA MARIA VICTORIA
+   DNI: 37938125
+   Credencial: 8000520599
+   Cantidad de recetas: 1
+--------------------------------------------------
+28. MOSQUEDA JULIETA CANDELA
+   DNI: 49380836
+   Credencial: 8000395995
+   Cantidad de recetas: 1
+--------------------------------------------------
+29. GERGOFF MILOFF ROSA ALEJANDRA
+   DNI: 30188845
+   Credencial: 8000304802
+   Cantidad de recetas: 1
+--------------------------------------------------
+30. BERTINO DANIEL ALCIDES
+   DNI: 27706549
+   Credencial: 8000485388
+   Cantidad de recetas: 1
+--------------------------------------------------
+31. GIMENEZ CINTIA NATALIA
+   DNI: 36970008
+   Credencial: 8000543610
+   Cantidad de recetas: 1
+--------------------------------------------------
+32. SZKAMARDA LUIS ARIEL
+   DNI: 36326967
+   Credencial: 8000523819
+   Cantidad de recetas: 1
+--------------------------------------------------
+33. SOSA ZULMA ADELINA
+   DNI: 6229983
+   Credencial: 8000185428
+   Cantidad de recetas: 1
+--------------------------------------------------
+34. LOBATO CLAUDIO DANIELO
+   DNI: 21546254
+   Credencial: 8000437631
+   Cantidad de recetas: 1
+--------------------------------------------------
+35. BARBOZA SANDRA CAROLINA
+   DNI: 24597031
+   Credencial: 8000480740
+   Cantidad de recetas: 1
+--------------------------------------------------
+36. CAMPOS NANCY CAROLINA
+   DNI: 27706539
+   Credencial: 8000099240
+   Cantidad de recetas: 1
+--------------------------------------------------
+37. LOPEZ NOELIA BELEN
+   DNI: 36671598
+   Credencial: 8000555198
+   Cantidad de recetas: 1
+--------------------------------------------------
+38. GAN MELANI DESIREE
+   DNI: 38503705
+   Credencial: 8000544650
+   Cantidad de recetas: 1
+--------------------------------------------------
+39. KONOWALCZUK BEATRIZ NOEMI
+   DNI: 20394102
+   Credencial: 8000074938
+   Cantidad de recetas: 1
+--------------------------------------------------
+40. MARTIN MORO MARIA ALEJANDRA
+   DNI: 34458439
+   Credencial: 8000420829
+   Cantidad de recetas: 1
+--------------------------------------------------
+41. PACHECO PRISCILA ANTONELLA
+   DNI: 47618292
+   Credencial: 8000358195
+   Cantidad de recetas: 1
+--------------------------------------------------
+42. CACERES LUISA AIDE
+   DNI: 17037750
+   Credencial: 8000559989
+   Cantidad de recetas: 1
+--------------------------------------------------
+43. PIEDRABUENA MARTINA
+   DNI: 4262920
+   Credencial: 8000499754
+   Cantidad de recetas: 1
+--------------------------------------------------
+44. CUR LUCILA MARISA
+   DNI: 22749988
+   Credencial: 8000425140
+   Cantidad de recetas: 1
+--------------------------------------------------
+45. INSAURRALDE ELISABET
+   DNI: 12421675
+   Credencial: 8000407684
+   Cantidad de recetas: 1
+--------------------------------------------------
+46. CISNEROS JUAN IGNACIO
+   DNI: 58085063
+   Credencial: 8000570655
+   Cantidad de recetas: 1
+--------------------------------------------------
+47. HOLUBEK EVELIN JANET
+   DNI: 37938107
+   Credencial: 8000544143
+   Cantidad de recetas: 1
+--------------------------------------------------
+48. SEGOVIA GODOY FIAMMA EVANGELINA
+   DNI: 48249020
+   Credencial: 8000376067
+   Cantidad de recetas: 1
+--------------------------------------------------
+49. ACOSTA MONICA BEATRIZ
+   DNI: 22236141
+   Credencial: 8000079295
+   Cantidad de recetas: 1
+--------------------------------------------------
+50. KISIEL JUDITH ERICA
+   DNI: 25643959
+   Credencial: 8000087172
+   Cantidad de recetas: 1
+--------------------------------------------------
+51. ABDULA SANDRA MARIEL
+   DNI: 23981148
+   Credencial: 8000325357
+   Cantidad de recetas: 1
+--------------------------------------------------
+52. ABDULA KARDASZ MISAEL
+   DNI: 70395629
+   Credencial: 8000636962
+   Cantidad de recetas: 1
+--------------------------------------------------
+53. PACHECO CELESTINA ROSALIA
+   DNI: 5190287
+   Credencial: 8000012583
+   Cantidad de recetas: 1
+--------------------------------------------------
+54. SORIA XIMENA AYELEN
+   DNI: 39552579
+   Credencial: 8000607131
+   Cantidad de recetas: 1
+--------------------------------------------------
+55. NAGORNY ALBA IRIS
+   DNI: 28340455
+   Credencial: 8000312622
+   Cantidad de recetas: 1
+--------------------------------------------------
+56. CRISTOFF MARIELA EDITH NOEMI
+   DNI: 26307388
+   Credencial: 8000320053
+   Cantidad de recetas: 1
+--------------------------------------------------
+57. VALEFF JESSICA IVANA
+   DNI: 33615155
+   Credencial: 8000422399
+   Cantidad de recetas: 1
+--------------------------------------------------
+58. MUÑOZ MARIA DEL CARMEN
+   DNI: 32935353
+   Credencial: 8000426816
+   Cantidad de recetas: 1
+--------------------------------------------------
+59. MOSIEJCZUK PEDRO EDUARDO
+   DNI: 14932807
+   Credencial: 8000207860
+   Cantidad de recetas: 1
+--------------------------------------------------
+60. RACHMANKO NORMA GLADIS
+   DNI: 20276647
+   Credencial: 8000084807
+   Cantidad de recetas: 1
+--------------------------------------------------
