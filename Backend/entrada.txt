@@ -1,5 +1,558 @@
 INSSSEP AMB
 
+Afiliado: VODOPIVEC DANKO OTONIEL
+
+D.N.I.: 70572135 Credencial: 8000640934
+
+Recetario: 2517836554851
+
+Fecha Receta: 27/06/2025
+
+Emitida: 27/06/2025 20:07
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+Dispensada
+
+Afiliado: KOBLUK CLAUDIO MARCELO
+
+D.N.I.: 30266450 Credencial: 8000485528
+
+Recetario: 2517836530198
+
+Fecha Receta: 27/06/2025
+
+Emitida: 27/06/2025 16:55
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+Dispensada
+
+Afiliado: PECOVICH ANDREA ALEJANDRA
+
+D.N.I.: 23981010 Credencial: 8000088334
+
+Recetario: 2517836529805
+
+Fecha Receta: 27/06/2025
+
+Emitida: 27/06/2025 16:52
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+Dispensada
+
+Afiliado: KARDASZ SOLEDAD EUNICE
+
+D.N.I.: 34966508 Credencial: 8000627494
+
+Recetario: 2517836529571
+
+Fecha Receta: 27/06/2025
+
+Emitida: 27/06/2025 16:50
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+Dispensada
+
+Afiliado: CONTRERAS MALENA AYELEN
+
+D.N.I.: 38123338 Credencial: 8000613920
+
+Recetario: 2517836528810
+
+Fecha Receta: 27/06/2025
+
+Emitida: 27/06/2025 16:45
+
+Plan: Plan Mujer
+
+INSSSEP AMB
+Dispensada
+
+Afiliado: RACHMANKO BORSUK
+
+D.N.I.: 57200495 Credencial: 8000603874
+
+Recetario: 2517836526915
+
+Fecha Receta: 27/06/2025
+
+Emitida: 27/06/2025 16:30
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+Dispensada
+
+Afiliado: BORSUK LAURA LEONELA
+
+D.N.I.: 34966484 Credencial: 8000603872
+
+Recetario: 2517836526644
+
+Fecha Receta: 27/06/2025
+
+Emitida: 27/06/2025 16:29
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+Dispensada
+
+Afiliado: BORSUK LAURA LEONELA
+
+D.N.I.: 34966484 Credencial: 8000603872
+
+Recetario: 2517836526552
+
+Fecha Receta: 27/06/2025
+
+Emitida: 27/06/2025 16:28
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+Dispensada
+
+Afiliado: BORSUK LAURA LEONELA
+
+D.N.I.: 34966484 Credencial: 8000603872
+
+Recetario: 2517836526468
+
+Fecha Receta: 27/06/2025
+
+Emitida: 27/06/2025 16:27
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+Dispensada
+
+Afiliado: BORSUK LAURA LEONELA
+
+D.N.I.: 34966484 Credencial: 8000603872
+
+Recetario: 2517836526305
+
+Fecha Receta: 27/06/2025
+
+Emitida: 27/06/2025 16:26
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+Dispensada
+
+Afiliado: BORSUK LAURA LEONELA
+
+D.N.I.: 34966484 Credencial: 8000603872
+
+Recetario: 2517836526161
+
+Fecha Receta: 27/06/2025
+
+Emitida: 27/06/2025 16:24
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+Dispensada
+
+Afiliado: BORSUK LAURA LEONELA
+
+D.N.I.: 34966484 Credencial: 8000603872
+
+Recetario: 2517836525895
+
+Fecha Receta: 27/06/2025
+
+Emitida: 27/06/2025 16:22
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+Dispensada
+
+Afiliado: CUR LUCILA MARISA
+
+D.N.I.: 22749988 Credencial: 8000425140
+
+Recetario: 2517836520313
+
+Fecha Receta: 27/06/2025
+
+Emitida: 27/06/2025 15:32
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+Dispensada
+
+Afiliado: CUR LUCILA MARISA
+
+D.N.I.: 22749988 Credencial: 8000425140
+
+Recetario: 2517836519856
+
+Fecha Receta: 27/06/2025
+
+Emitida: 27/06/2025 15:29
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+
+Afiliado: OJEDA GONZALEZ GRETEL LEONELA
+
+D.N.I.: 50622922 Credencial: 8000461023
+
+Recetario: 2517836492283
+
+Fecha Receta: 27/06/2025
+
+Emitida: 27/06/2025 11:47
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+Dispensada
+
+Afiliado: OJEDA GONZALEZ GRETEL LEONELA
+
+D.N.I.: 50622922 Credencial: 8000461023
+
+Recetario: 2517836490751
+
+Fecha Receta: 27/06/2025
+
+Emitida: 27/06/2025 11:39
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+
+Afiliado: VODOPIVEC DANKO OTONIEL
+
+D.N.I.: 70572135 Credencial: 8000640934
+
+Recetario: 2517836478902
+
+Fecha Receta: 27/06/2025
+
+Emitida: 27/06/2025 10:43
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+
+Afiliado: SCHAFFINO GILBERTO RUBEN
+
+D.N.I.: 7806097 Credencial: 8000212366
+
+Recetario: 2517836470448
+
+Fecha Receta: 27/06/2025
+
+Emitida: 27/06/2025 9:58
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+
+Afiliado: SCHAFFINO GILBERTO RUBEN
+
+D.N.I.: 7806097 Credencial: 8000212366
+
+Recetario: 2517836470261
+
+Fecha Receta: 27/06/2025
+
+Emitida: 27/06/2025 9:56
+
+Plan: Cardio
+
+INSSSEP AMB
+Dispensada
+
+Afiliado: VARBANOFF CARINA BEATRIZ
+
+D.N.I.: 28340412 Credencial: 8000305834
+
+Recetario: 2517836465128
+
+Fecha Receta: 27/06/2025
+
+Emitida: 27/06/2025 9:25
+
+Plan: Plan Mujer
+
+INSSSEP AMB
+
+Afiliado: ALMIRON MILENA
+
+D.N.I.: 47618206 Credencial: 8000419216
+
+Recetario: 2517736363484
+
+Fecha Receta: 26/06/2025
+
+Emitida: 26/06/2025 20:46
+
+Plan: Plan Mujer
+
+INSSSEP AMB
+
+Afiliado: ALMIRON HECTOR ANIBAL
+
+D.N.I.: 20093337 Credencial: 8000419217
+
+Recetario: 2517736363073
+
+Fecha Receta: 26/06/2025
+
+Emitida: 26/06/2025 20:44
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+
+Afiliado: ALMIRON HECTOR ANIBAL
+
+D.N.I.: 20093337 Credencial: 8000419217
+
+Recetario: 2517736362343
+
+Fecha Receta: 26/06/2025
+
+Emitida: 26/06/2025 20:41
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+
+Afiliado: HOLUBEK EVELIN JANET
+
+D.N.I.: 37938107 Credencial: 8000544143
+
+Recetario: 2517736314574
+
+Fecha Receta: 26/06/2025
+
+Emitida: 26/06/2025 17:42
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+Dispensada
+
+Afiliado: TRNOVSKY GRACIELA BEATRIZ
+
+D.N.I.: 12421696 Credencial: 8000171788
+
+Recetario: 2517736183069
+
+Fecha Receta: 26/06/2025
+
+Emitida: 26/06/2025 10:03
+
+Plan: Cardio
+
+INSSSEP AMB
+Dispensada
+
+Afiliado: BALUK PABLO
+
+D.N.I.: 8587306 Credencial: 8000037431
+
+Recetario: 2517736182740
+
+Fecha Receta: 26/06/2025
+
+Emitida: 26/06/2025 10:02
+
+Plan: Cardio
+
+INSSSEP AMB
+
+Afiliado: MREÑICA ALEJANDRA VANESA
+
+D.N.I.: 34040841 Credencial: 8000462090
+
+Recetario: 2517736178569
+
+Fecha Receta: 26/06/2025
+
+Emitida: 26/06/2025 9:48
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+
+Afiliado: MREÑICA ALEJANDRA VANESA
+
+D.N.I.: 34040841 Credencial: 8000462090
+
+Recetario: 2517736178460
+
+Fecha Receta: 26/06/2025
+
+Emitida: 26/06/2025 9:48
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+
+Afiliado: SKOKANDIC JUAN DOMINGO
+
+D.N.I.: 25600518 Credencial: 8000097917
+
+Recetario: 2517736175471
+
+Fecha Receta: 26/06/2025
+
+Emitida: 26/06/2025 9:38
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+
+Afiliado: SKOKANDIC JUAN DOMINGO
+
+D.N.I.: 25600518 Credencial: 8000097917
+
+Recetario: 2517736175325
+
+Fecha Receta: 26/06/2025
+
+Emitida: 26/06/2025 9:37
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+
+Afiliado: SKOKANDIC JUAN DOMINGO
+
+D.N.I.: 25600518 Credencial: 8000097917
+
+Recetario: 2517736175196
+
+Fecha Receta: 26/06/2025
+
+Emitida: 26/06/2025 9:37
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+Dispensada
+
+Afiliado: VALEFF JESSICA IVANA
+
+D.N.I.: 33615155 Credencial: 8000422399
+
+Recetario: 2517736154479
+
+Fecha Receta: 26/06/2025
+
+Emitida: 26/06/2025 8:24
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+Dispensada
+
+Afiliado: JARA KARDASZ MICAL
+
+D.N.I.: 59848842 Credencial: 8000620048
+
+Recetario: 2517636055168
+
+Fecha Receta: 25/06/2025
+
+Emitida: 25/06/2025 17:55
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+
+Afiliado: JARA KARDASZ MICAL
+
+D.N.I.: 59848842 Credencial: 8000620048
+
+Recetario: 2517636046921
+
+Fecha Receta: 25/06/2025
+
+Emitida: 25/06/2025 17:10
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+Dispensada
+
+Afiliado: PECOVICH ANDREA ALEJANDRA
+
+D.N.I.: 23981010 Credencial: 8000088334
+
+Recetario: 2517636038921
+
+Fecha Receta: 25/06/2025
+
+Emitida: 25/06/2025 16:22
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+Dispensada
+
+Afiliado: JARA KARDASZ MICAL
+
+D.N.I.: 59848842 Credencial: 8000620048
+
+Recetario: 2517635950634
+
+Fecha Receta: 25/06/2025
+
+Emitida: 25/06/2025 8:14
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+
+Afiliado: ABDULA SANDRA MARIEL
+
+D.N.I.: 23981148 Credencial: 8000325357
+
+Recetario: 2517535885914
+
+Fecha Receta: 24/06/2025
+
+Emitida: 24/06/2025 23:26
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+
+Afiliado: SLAVIK NOAH SANTIAGO
+
+D.N.I.: 54901415 Credencial: 8000537734
+
+Recetario: 2517535885688
+
+Fecha Receta: 24/06/2025
+
+Emitida: 24/06/2025 23:24
+
+Plan: Ambulatorio
+
+INSSSEP AMB
+
 Afiliado: MONTES LUCIANA MARISEL
 
 D.N.I.: 36671286 Credencial: 8000595359
@@ -446,6 +999,7 @@ Emitida: 23/06/2025 17:53
 Plan: Ambulatorio
 
 INSSSEP AMB
+Dispensada
 
 Afiliado: PACHECO PRISCILA ANTONELLA
 
@@ -1007,6 +1561,7 @@ Emitida: 18/06/2025 11:16
 Plan: Ambulatorio
 
 INSSSEP AMB
+Dispensada
 
 Afiliado: SORIA XIMENA AYELEN
 
