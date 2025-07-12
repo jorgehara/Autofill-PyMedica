@@ -1,0 +1,141 @@
+LISTADO DE AFILIADOS Y CANTIDAD DE RECETAS
+=========================================
+4. GALIANO LETICIA MABEL
+   DNI: 21348923
+   Credencial: 8000475077
+   Cantidad de recetas: 5
+--------------------------------------------------
+8. ORELLANO GRISELDA LUCIA
+   DNI: 25643958
+   Credencial: 8000309901
+   Cantidad de recetas: 4
+--------------------------------------------------
+9. VIDELA FLORENCIO MARTIN
+   DNI: 22839981
+   Credencial: 8000442386
+   Cantidad de recetas: 4
+--------------------------------------------------
+10. BANEGAS CESAR CEFERINO
+   DNI: 25643945
+   Credencial: 8000538662
+   Cantidad de recetas: 4
+--------------------------------------------------
+11. ESPINOSA JOSE HIPOLITO
+   DNI: 14274648
+   Credencial: 8000563676
+   Cantidad de recetas: 4
+--------------------------------------------------
+13. BENUS JOSE CARLOS
+   DNI: 14141022
+   Credencial: 8000412907
+   Cantidad de recetas: 3
+--------------------------------------------------
+14. CISNEROS PATRICIO MATEO
+   DNI: 53787506
+   Credencial: 8000573873
+   Cantidad de recetas: 3
+--------------------------------------------------
+15. ZANCOFF ALEJANDRA EMILSE
+   DNI: 29220179
+   Credencial: 8000414940
+   Cantidad de recetas: 3
+--------------------------------------------------
+16. HORDODJI NESTOR AGUSTIN
+   DNI: 43616080
+   Credencial: 8000299057
+   Cantidad de recetas: 3
+--------------------------------------------------
+18. HOLUBEK EVELIN JANET
+   DNI: 37938107
+   Credencial: 8000544143
+   Cantidad de recetas: 3
+--------------------------------------------------
+20. CUR LUCILA MARISA
+   DNI: 22749988
+   Credencial: 8000425140
+   Cantidad de recetas: 3
+--------------------------------------------------
+21. KURKAZ OLGA ELVIRA
+   DNI: 10569041
+   Credencial: 8000039789
+   Cantidad de recetas: 3
+--------------------------------------------------
+22. BERTINO PEDRO DANIEL
+   DNI: 7451655
+   Credencial: 8000026263
+   Cantidad de recetas: 3
+--------------------------------------------------
+23. KARDASZ IVANA NOELIA
+   DNI: 32664697
+   Credencial: 8000553453
+   Cantidad de recetas: 3
+--------------------------------------------------
+24. KOBLUK SAMUEL EMILIO
+   DNI: 17037705
+   Credencial: 8000576655
+   Cantidad de recetas: 3
+--------------------------------------------------
+25. MENDOZA HECTOR RAUL
+   DNI: 16945545
+   Credencial: 8000214561
+   Cantidad de recetas: 3
+--------------------------------------------------
+26. GOMEZ RAUL ESTEBAN
+   DNI: 16945541
+   Credencial: 8000312326
+   Cantidad de recetas: 2
+--------------------------------------------------
+27. CZULIPA ERICA LUDMILA
+   DNI: 42732962
+   Credencial: 8000632623
+   Cantidad de recetas: 2
+--------------------------------------------------
+28. BARRETO CARMEN ANTONIA
+   DNI: 17341075
+   Credencial: 8000469702
+   Cantidad de recetas: 2
+--------------------------------------------------
+29. MANSILLA EDIT LIDIA
+   DNI: 26307215
+   Credencial: 8000442388
+   Cantidad de recetas: 2
+--------------------------------------------------
+30. ZARATE TOMAS DE LA CRUZ
+   DNI: 11063298
+   Credencial: 8000043141
+   Cantidad de recetas: 2
+--------------------------------------------------
+31. ESPARZA ROJO LUIS MARIA
+   DNI: 23231257
+   Credencial: 8000515963
+   Cantidad de recetas: 2
+--------------------------------------------------
+34. MOSQUEDA JULIETA CANDELA
+   DNI: 49380836
+   Credencial: 8000395995
+   Cantidad de recetas: 2
+--------------------------------------------------
+35. GERGOFF MILOFF ROSA ALEJANDRA
+   DNI: 30188845
+   Credencial: 8000304802
+   Cantidad de recetas: 2
+--------------------------------------------------
+36. MONTES LUCIANA MARISEL
+   DNI: 36671286
+   Credencial: 8000595359
+   Cantidad de recetas: 2
+--------------------------------------------------
+37. VODOPIVEC DANKO OTONIEL
+   DNI: 70572135
+   Credencial: 8000640934
+   Cantidad de recetas: 2
+--------------------------------------------------
+38. PECOVICH ANDREA ALEJANDRA
+   DNI: 23981010
+   Credencial: 8000088334
+   Cantidad de recetas: 2
+--------------------------------------------------
+39. OJEDA GONZALEZ GRETEL LEONELA
+   DNI: 50622922
+   Credencial: 8000461023
+   Cantidad de recetas: 2
