@@ -1,15 +1,12 @@
 LISTADO DE AFILIADOS Y CANTIDAD DE RECETAS
 =========================================
+56 personas
+
 
 1. GONZALEZ MARIANELA SOLEDAD
    DNI: 32511449
    Credencial: 8000475167
    Cantidad de recetas: 9
---------------------------------------------------
-2. ESPARZA VIDAL LUIS MARIA
-   DNI: 10174882
-   Credencial: 8000392741
-   Cantidad de recetas: 8
 --------------------------------------------------
 3. INSAURRALDE MAYRA MARIA JOSE
    DNI: 32061712
@@ -26,24 +23,9 @@ LISTADO DE AFILIADOS Y CANTIDAD DE RECETAS
    Credencial: 8000468410
    Cantidad de recetas: 6
 --------------------------------------------------
-6. CONTRERAS MALENA AYELEN
-   DNI: 38123338
-   Credencial: 8000613920
-   Cantidad de recetas: 6
---------------------------------------------------
 7. KOBLUK SAMUEL EMILIO
    DNI: 17037705
    Credencial: 8000576655
-   Cantidad de recetas: 5
---------------------------------------------------
-8. RADLOVACKI ESTELA ALICIA
-   DNI: 22343363
-   Credencial: 8000317563
-   Cantidad de recetas: 5
---------------------------------------------------
-9. SOSA GRACIELA ISABEL
-   DNI: 25643923
-   Credencial: 8000096714
    Cantidad de recetas: 5
 --------------------------------------------------
 10. MUÑOZ AVRIL ARELYS
@@ -54,11 +36,6 @@ LISTADO DE AFILIADOS Y CANTIDAD DE RECETAS
 11. DOMINGUEZ SONIA VANESA
    DNI: 28489664
    Credencial: 8000327643
-   Cantidad de recetas: 5
---------------------------------------------------
-12. CATALAN INDIRA NASHELY
-   DNI: 51030651
-   Credencial: 8000535752
    Cantidad de recetas: 5
 --------------------------------------------------
 13. LEGUIZA FRIDA AMALIA
@@ -76,16 +53,6 @@ LISTADO DE AFILIADOS Y CANTIDAD DE RECETAS
    Credencial: 8000480719
    Cantidad de recetas: 4
 --------------------------------------------------
-16. GAN MELANI DESIREE
-   DNI: 38503705
-   Credencial: 8000544650
-   Cantidad de recetas: 4
---------------------------------------------------
-17. MUÑOZ OMAR ARIEL
-   DNI: 34040769
-   Credencial: 8000443943
-   Cantidad de recetas: 4
---------------------------------------------------
 18. LOBATO CLAUDIO DANIELO
    DNI: 21546254
    Credencial: 8000437631
@@ -101,69 +68,14 @@ LISTADO DE AFILIADOS Y CANTIDAD DE RECETAS
    Credencial: 8000407680
    Cantidad de recetas: 3
 --------------------------------------------------
-21. PASCUA MARIA SILVIA
-   DNI: 33658782
-   Credencial: 8000583119
-   Cantidad de recetas: 3
---------------------------------------------------
-22. GIMENEZ CINTIA NATALIA
-   DNI: 36970008
-   Credencial: 8000543610
-   Cantidad de recetas: 3
---------------------------------------------------
-23. SOSA MARIA VICTORIA
-   DNI: 37938125
-   Credencial: 8000520599
-   Cantidad de recetas: 3
---------------------------------------------------
 24. ROMERO NILDA MARCELA
    DNI: 25379924
    Credencial: 8000342950
    Cantidad de recetas: 3
 --------------------------------------------------
-25. FRANCO RODRIGO JOAQUIN
-   DNI: 49299456
-   Credencial: 8000599772
-   Cantidad de recetas: 3
---------------------------------------------------
-26. GONZALEZ NORA NELI
-   DNI: 14220053
-   Credencial: 8000448658
-   Cantidad de recetas: 3
---------------------------------------------------
-27. LOPEZ RAMONA MERCEDES
-   DNI: 16428744
-   Credencial: 8000064771
-   Cantidad de recetas: 3
---------------------------------------------------
-28. GARZON ISABEL ERIKA
-   DNI: 22857890
-   Credencial: 8000323721
-   Cantidad de recetas: 3
---------------------------------------------------
-29. NAMTZ NOEMI GLADYS
-   DNI: 14220001
-   Credencial: 8000081954
-   Cantidad de recetas: 3
---------------------------------------------------
-30. SCHAFFINO SILVINA SOLEDAD
-   DNI: 29826863
-   Credencial: 8000353957
-   Cantidad de recetas: 3
---------------------------------------------------
-31. CABAÑA BENITEZ EMMA BRENDA
-   DNI: 56743065
-   Credencial: 8000573028
-   Cantidad de recetas: 3
---------------------------------------------------
 32. KOTELCZUK OLGA
    DNI: 10990353
    Credencial: 8000041632
-   Cantidad de recetas: 3
---------------------------------------------------
-33. BILAN ELENA TERESA
-   DNI: 13576177
-   Credencial: 8000337072
    Cantidad de recetas: 3
 --------------------------------------------------
 34. KAPLUN MANSILLA KAREN EVELIN
@@ -184,21 +96,6 @@ LISTADO DE AFILIADOS Y CANTIDAD DE RECETAS
 37. DIDUCH ANA MARIA
    DNI: 14766730
    Credencial: 8000061095
-   Cantidad de recetas: 2
---------------------------------------------------
-38. ABDULA SANDRA MARIEL
-   DNI: 23981148
-   Credencial: 8000325357
-   Cantidad de recetas: 2
---------------------------------------------------
-39. VALEFF JESSICA IVANA
-   DNI: 33615155
-   Credencial: 8000422399
-   Cantidad de recetas: 2
---------------------------------------------------
-40. SILVA CLARISA RAQUEL ITATI
-   DNI: 28666041
-   Credencial: 8000479722
    Cantidad de recetas: 2
 --------------------------------------------------
 41. MASALYKA LILIANA ELIZABETH
@@ -226,51 +123,6 @@ LISTADO DE AFILIADOS Y CANTIDAD DE RECETAS
    Credencial: 8000454657
    Cantidad de recetas: 2
 --------------------------------------------------
-46. GAREHICHI GUIDO MARTIN
-   DNI: 54681818
-   Credencial: 8000493689
-   Cantidad de recetas: 2
---------------------------------------------------
-47. BALUK FRANCIS GERMAN
-   DNI: 36326928
-   Credencial: 8000626784
-   Cantidad de recetas: 2
---------------------------------------------------
-48. MARTINEZ MAURO SEBASTIAN
-   DNI: 34567137
-   Credencial: 8000464569
-   Cantidad de recetas: 2
---------------------------------------------------
-49. LANDRIEL ELDA RAQUEL
-   DNI: 13576176
-   Credencial: 8000055039
-   Cantidad de recetas: 2
---------------------------------------------------
-50. GAUTO MARISA ROSANA
-   DNI: 28340405
-   Credencial: 8000468078
-   Cantidad de recetas: 2
---------------------------------------------------
-51. MANSILLA TICIANA PAZ
-   DNI: 49199966
-   Credencial: 8000388019
-   Cantidad de recetas: 2
---------------------------------------------------
-52. CHAVEZ CRISTIAN IVAN
-   DNI: 58085074
-   Credencial: 8000580593
-   Cantidad de recetas: 2
---------------------------------------------------
-53. CHAVEZ EDUARDO ADOLFO
-   DNI: 20276536
-   Credencial: 8000075279
-   Cantidad de recetas: 2
---------------------------------------------------
-54. GARCIA EMILIA ELISA
-   DNI: 6402986
-   Credencial: 8000020003
-   Cantidad de recetas: 2
---------------------------------------------------
 55. ALTAMIRANO PAULA IVANA
    DNI: 29057852
    Credencial: 8000448902
@@ -279,11 +131,6 @@ LISTADO DE AFILIADOS Y CANTIDAD DE RECETAS
 56. DICKAU ERIC DAVID
    DNI: 36976073
    Credencial: 8000563290
-   Cantidad de recetas: 2
---------------------------------------------------
-57. ZUBCO KUVASZUK MIRTA LILIANA
-   DNI: 22933327
-   Credencial: 8000079505
    Cantidad de recetas: 2
 --------------------------------------------------
 58. LOMBERG ANALIA GRACIELA
@@ -300,11 +147,7 @@ LISTADO DE AFILIADOS Y CANTIDAD DE RECETAS
    DNI: 27706596
    Credencial: 8000310841
    Cantidad de recetas: 2
---------------------------------------------------
-61. LOPEZ NAJUL MILAGROS JOSELI
-   DNI: 46963816
-   Credencial: 8000344256
-   Cantidad de recetas: 2
+
 --------------------------------------------------
 62. VIDELA PERALTA DANIELA ALEJANDRA
    DNI: 33615127
@@ -366,11 +209,6 @@ LISTADO DE AFILIADOS Y CANTIDAD DE RECETAS
    Credencial: 8000244264
    Cantidad de recetas: 1
 --------------------------------------------------
-74. VARGA EIDAN
-   DNI: 58408308
-   Credencial: 8000579690
-   Cantidad de recetas: 1
---------------------------------------------------
 75. NICOLA MARISA ELISABETH
    DNI: 26210785
    Credencial: 8000091220
@@ -381,24 +219,9 @@ LISTADO DE AFILIADOS Y CANTIDAD DE RECETAS
    Credencial: 8000468413
    Cantidad de recetas: 1
 --------------------------------------------------
-77. FERNANDEZ BETTIANA GIMENA
-   DNI: 59175870
-   Credencial: 8000599995
-   Cantidad de recetas: 1
---------------------------------------------------
 78. SERRANO ANA BEATRIZ
    DNI: 14274687
    Credencial: 8000312179
-   Cantidad de recetas: 1
---------------------------------------------------
-79. BORSUK LAURA LEONELA
-   DNI: 34966484
-   Credencial: 8000603872
-   Cantidad de recetas: 1
---------------------------------------------------
-80. AYALA, TAMARA ELIZABETH
-   DNI: 35686560
-   Credencial: 8000605246
    Cantidad de recetas: 1
 --------------------------------------------------
 81. MONZON MARIELA VANINA
@@ -450,11 +273,7 @@ LISTADO DE AFILIADOS Y CANTIDAD DE RECETAS
    DNI: 27435256
    Credencial: 8000329689
    Cantidad de recetas: 1
---------------------------------------------------
-91. GARCIA NOELI SOLEDAD
-   DNI: 36245523
-   Credencial: 8000542962
-   Cantidad de recetas: 1
+
 --------------------------------------------------
 92. VERON CARINA
    DNI: 30580893
@@ -464,16 +283,6 @@ LISTADO DE AFILIADOS Y CANTIDAD DE RECETAS
 93. PACHECO PRISCILA ANTONELLA
    DNI: 47618292
    Credencial: 8000358195
-   Cantidad de recetas: 1
---------------------------------------------------
-94. ABDULA GADIEL EMIR
-   DNI: 42864985
-   Credencial: 8000627492
-   Cantidad de recetas: 1
---------------------------------------------------
-95. PEDROZO CARLOS ALBERTO
-   DNI: 14274564
-   Credencial: 8000058874
    Cantidad de recetas: 1
 --------------------------------------------------
 96. GERGOFF PECHERINCOFF STEFANO
@@ -500,12 +309,7 @@ LISTADO DE AFILIADOS Y CANTIDAD DE RECETAS
    DNI: 33651545
    Credencial: 8000587666
    Cantidad de recetas: 1
---------------------------------------------------
-101. GERGOFF MILOFF ROSA ALEJANDRA
-   DNI: 30188845
-   Credencial: 8000304802
-   Cantidad de recetas: 1
---------------------------------------------------
+
 102. IVIN ABIGAIL ANAHI
    DNI: 36671554
    Credencial: 8000625348
@@ -565,19 +369,3 @@ LISTADO DE AFILIADOS Y CANTIDAD DE RECETAS
    DNI: 32061895
    Credencial: 8000424911
    Cantidad de recetas: 1
---------------------------------------------------
-114. PROKOPIUK NELSON EXEQUIEL
-   DNI: 37454529
-   Credencial: 8000509485
-   Cantidad de recetas: 1
---------------------------------------------------
-115. VODOPIVEC, LUIS DANIEL
-   DNI: 39776501
-   Credencial: 8000612546
-   Cantidad de recetas: 1
---------------------------------------------------
-116. MUÑOZ BENICCIO MATTEO
-   DNI: 56327714
-   Credencial: 8000534101
-   Cantidad de recetas: 1
---------------------------------------------------
