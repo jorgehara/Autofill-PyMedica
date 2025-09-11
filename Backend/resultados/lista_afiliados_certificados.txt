@@ -1,0 +1,57 @@
+LISTADO DE AFILIADOS (FORMATO TABULAR) Y CANTIDAD DE VECES
+==========================================================
+
+1. KRAWIEC ARIELA CARINA
+   DNI: 25854742
+   Credencial: 27258547425
+   Cantidad de veces: 2
+   Diagnóstico: B349
+--------------------------------------------------
+2. BENITEZ INES VILMA VIVIANA
+   DNI: 17495661
+   Credencial: 27174956613
+   Cantidad de veces: 1
+   Diagnóstico: J009
+--------------------------------------------------
+3. BERTINO DANIEL ALCIDES
+   DNI: 27706549
+   Credencial: 20277065496
+   Cantidad de veces: 1
+   Diagnóstico: B349
+--------------------------------------------------
+4. KRAWIEC YANINA EVELIN
+   DNI: 28340627
+   Credencial: 27283406275
+   Cantidad de veces: 1
+   Diagnóstico: I119
+--------------------------------------------------
+5. MUÑOZ OMAR ARIEL
+   DNI: 34040769
+   Credencial: 20340407696
+   Cantidad de veces: 1
+   Diagnóstico: B349
+--------------------------------------------------
+6. DALKE IRMA ELENA
+   DNI: 18199339
+   Credencial: 27181993397
+   Cantidad de veces: 1
+   Diagnóstico: B349
+--------------------------------------------------
+7. TOLOZA MELINA ANAHI
+   DNI: 37938383
+   Credencial: 27420682390
+   Cantidad de veces: 1
+   Diagnóstico: J009
+--------------------------------------------------
+8. FERNANDEZ FEDERICO JESUS
+   DNI: 37938383
+   Credencial: 20379383832
+   Cantidad de veces: 1
+   Diagnóstico: J009
+--------------------------------------------------
+9. BARBOZA SANDRA CAROLINA
+   DNI: 24597031
+   Credencial: 27245970310
+   Cantidad de veces: 1
+   Diagnóstico: B349
+--------------------------------------------------

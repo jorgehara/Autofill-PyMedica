@@ -1,0 +1,447 @@
+LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
+======================================================
+
+1. ALMIRON HECTOR ANIBAL
+   DNI: 20093337
+   Credencial: 8000419217
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 5
+--------------------------------------------------
+2. SOTELO SUSANA AIDE
+   DNI: 17919349
+   Credencial: 8000071505
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 4
+--------------------------------------------------
+3. JARA JORGE
+   DNI: 33824963
+   Credencial: 8000553461
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 4
+--------------------------------------------------
+4. HOLUBEK EVELIN JANET
+   DNI: 37938107
+   Credencial: 8000544143
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 4
+--------------------------------------------------
+5. NIKITIUK NATALIA
+   DNI: 14137494
+   Credencial: 8000468150
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 4
+--------------------------------------------------
+6. BILAN DE PELLERANO EMILIA
+   DNI: 5962459
+   Credencial: 8000016602
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 4
+--------------------------------------------------
+7. VODOPIVEC AMALIA BEATRI
+   DNI: 16428747
+   Credencial: 8000064949
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 4
+--------------------------------------------------
+8. ACOSTA MONICA BEATRIZ
+   DNI: 22236141
+   Credencial: 8000079295
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 4
+--------------------------------------------------
+9. KRAWIEC ARIELA CARINA
+   DNI: 25854742
+   Credencial: 8000618739
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 3
+--------------------------------------------------
+10. SLAVIK JUAN CARLOS
+   DNI: 13576116
+   Credencial: 8000055037
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 3
+--------------------------------------------------
+11. SLAVIK MIA NAHIARA
+   DNI: 54901414
+   Credencial: 8000537733
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 3
+--------------------------------------------------
+12. MONZON MARIELA VANINA
+   DNI: 26826677
+   Credencial: 8000573727
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 3
+--------------------------------------------------
+13. GARCIA NOELI SOLEDAD
+   DNI: 36245523
+   Credencial: 8000542962
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 3
+--------------------------------------------------
+14. MENDOZA OSCAR ALBERTO
+   DNI: 14274582
+   Credencial: 8000373193
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 3
+--------------------------------------------------
+15. GARIBOGLIO STANGAFERRO CARINA
+   DNI: 22730614
+   Credencial: 8000079902
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 3
+--------------------------------------------------
+16. PASICH ANGEL
+   DNI: 17760564
+   Credencial: 8000350081
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 3
+--------------------------------------------------
+17. PECOVICH ANDREA ALEJANDRA
+   DNI: 23981010
+   Credencial: 8000088334
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 3
+--------------------------------------------------
+18. DIDUCH YANINA MELISA
+   DNI: 36976106
+   Credencial: 8000552768
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 3
+--------------------------------------------------
+19. BENITEZ INES VILMA VIVIANA
+   DNI: 17495661
+   Credencial: 8000343136
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 2
+--------------------------------------------------
+20. KARDASZ IVANA NOELIA
+   DNI: 32664697
+   Credencial: 8000553453
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 2
+--------------------------------------------------
+21. CUR LUCILA MARISA
+   DNI: 22749988
+   Credencial: 8000425140
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 2
+--------------------------------------------------
+22. LOPEZ RAMONA MERCEDES
+   DNI: 16428744
+   Credencial: 8000064771
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 2
+--------------------------------------------------
+23. VALEFF JESSICA IVANA
+   DNI: 33615155
+   Credencial: 8000422399
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 2
+--------------------------------------------------
+24. NAGORNY ALBA IRIS
+   DNI: 28340455
+   Credencial: 8000312622
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 2
+--------------------------------------------------
+25. ROMERO NILDA MARCELA
+   DNI: 25379924
+   Credencial: 8000342950
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 2
+--------------------------------------------------
+26. ALTAMIRANO PAULA IVANA
+   DNI: 29057852
+   Credencial: 8000448902
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 2
+--------------------------------------------------
+27. KOTELCZUK OLGA
+   DNI: 10990353
+   Credencial: 8000041632
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 2
+--------------------------------------------------
+28. PUJOL FERNANDEZ LAUTARO JAVIER
+   DNI: 48730093
+   Credencial: 8000378810
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 2
+--------------------------------------------------
+29. ASSL GLADYS BEATRIZ
+   DNI: 29057937
+   Credencial: 8000339025
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 2
+--------------------------------------------------
+30. IWAÑSKY EMILIA
+   DNI: 13257500
+   Credencial: 8000053406
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 2
+--------------------------------------------------
+31. ESPARZA VIDAL LUIS MARIA
+   DNI: 10174882
+   Credencial: 8000392741
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 2
+--------------------------------------------------
+32. VERON MARIELA INES
+   DNI: 32061831
+   Credencial: 8000587745
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 2
+--------------------------------------------------
+33. GIMENEZ ROBERTO OSCAR
+   DNI: 11249647
+   Credencial: 8000044021
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 2
+--------------------------------------------------
+34. ALTAMIRANO ZUNILDA LIDIA
+   DNI: 13725316
+   Credencial: 8000325240
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 2
+--------------------------------------------------
+35. PAWLUK FRANCO ROCIO SOLEDAD
+   DNI: 37938219
+   Credencial: 8000497615
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 2
+--------------------------------------------------
+36. DECCA LORENA PATRICIA
+   DNI: 26929906
+   Credencial: 8000634339
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 2
+--------------------------------------------------
+37. FANDRICH CARMEN CECILIA
+   DNI: 34966525
+   Credencial: 8000607960
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 2
+--------------------------------------------------
+38. CORDOBA FABIANA DEL CARMEN
+   DNI: 17919410
+   Credencial: 8000071506
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 2
+--------------------------------------------------
+39. SOSA CRISTINA CEFERINA
+   DNI: 22236114
+   Credencial: 8000078585
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 2
+--------------------------------------------------
+40. IVANOFF STOINOVSKY PEDRO
+   DNI: 16945583
+   Credencial: 8000067849
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 2
+--------------------------------------------------
+41. KAVGIC CLARA INES
+   DNI: 42276509
+   Credencial: 8000300510
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 2
+--------------------------------------------------
+42. BILAN ELENA TERESA
+   DNI: 13576177
+   Credencial: 8000337072
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 2
+--------------------------------------------------
+43. PACHECO PRISCILA ANTONELLA
+   DNI: 47618292
+   Credencial: 8000358195
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+44. FERNANDEZ ARES LIAM
+   DNI: 70345278
+   Credencial: 8000632673
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+45. LOPEZ MARIA ROSA
+   DNI: 17189713
+   Credencial: 8000068824
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+46. DULLKA GUILLERMO ABEL
+   DNI: 40035635
+   Credencial: 8000628650
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+47. VERON GERMAN DAVID
+   DNI: 29220091
+   Credencial: 8000377591
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+48. KONOWALCZUK BEATRIZ NOEMI
+   DNI: 20394102
+   Credencial: 8000074938
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+49. FERNANDEZ SANDRA ISABEL
+   DNI: 28340633
+   Credencial: 8000312367
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+50. RAMIREZ CAROLINA ELIZABETH
+   DNI: 27025637
+   Credencial: 8000096916
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+51. FUS RICARDO MARCELO JOSE
+   DNI: 23218576
+   Credencial: 8000439990
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+52. LANDRIEL NICOLAS GABRIEL
+   DNI: 45046947
+   Credencial: 8000321478
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+53. GIMENEZ CINTIA NATALIA
+   DNI: 36970008
+   Credencial: 8000543610
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+54. BLANCO ANDREA CRISTINA
+   DNI: 28396191
+   Credencial: 8000353171
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+55. SCHAFFINO SILVINA SOLEDAD
+   DNI: 29826863
+   Credencial: 8000353957
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+56. LANDRIEL CANO CARINA ESTER
+   DNI: 25427141
+   Credencial: 8000351834
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+57. SERRANO ANA BEATRIZ
+   DNI: 14274687
+   Credencial: 8000312179
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+58. DOMINGUEZ SONIA VANESA
+   DNI: 28489664
+   Credencial: 8000327643
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+59. MOSIEJCZUK PEDRO EDUARDO
+   DNI: 14932807
+   Credencial: 8000207860
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+60. BERTINO DORA HAIDEE
+   DNI: 30580923
+   Credencial: 8000466751
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+61. TOLOZA MELINA ANAHI
+   DNI: 42068239
+   Credencial: 8000560106
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+62. FERNANDEZ FEDERICO JESUS
+   DNI: 37938383
+   Credencial: 8000522802
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+63. KUCEK GLADYS ESTHER
+   DNI: 23885989
+   Credencial: 8000080939
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+64. AYALA, TAMARA ELIZABETH
+   DNI: 35686560
+   Credencial: 8000605246
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+65. SANCHEZ, JESICA PAOLA
+   DNI: 36976111
+   Credencial: 8000619017
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+66. YBAÑEZ AGUSTIN FABIAN
+   DNI: 44469865
+   Credencial: 8000377603
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+67. BALUK ERIKA LUCIANA
+   DNI: 38383763
+   Credencial: 8000604499
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+68. GALIANO VANESA DEL CARMEN
+   DNI: 30580937
+   Credencial: 8000576416
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+69. CONTRERAS PETRONA
+   DNI: 5962452
+   Credencial: 8000017223
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+70. KARDASZ SOLEDAD EUNICE
+   DNI: 34966508
+   Credencial: 8000627494
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+71. IVIN ABIGAIL ANAHI
+   DNI: 36671554
+   Credencial: 8000625348
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+72. LOPEZ DE ENCINA GLADYS MABEL
+   DNI: 23981023
+   Credencial: 8000234863
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+73. GEORGEFF JORGE SIMON
+   DNI: 12246895
+   Credencial: 8000226655
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------
+74. ALVARES ANDREA ALEJANDRA
+   DNI: 31149580
+   Credencial: 8000468413
+   Obra social: INSSSEP AMB
+   Cantidad de recetas: 1
+--------------------------------------------------

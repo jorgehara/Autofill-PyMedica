@@ -1,7 +1,47 @@
+def extraer_tabular(texto: str):
+    """
+    Extrae datos de un formato tabular como:
+    Código  DNI        Nombre Apellido         Relación  DNI_afiliado  Credencial
+    J009   17495661   BENITEZ INES VILMA ...  Titular   17495661      27174956613
+    """
+    print("Procesando formato tabular...")
+    # El diagnóstico es el primer campo: una letra mayúscula y 3 números
+    patron = r"^([A-Z][0-9]{3})\s+(\d{7,9})\s+([A-ZÁÉÍÓÚÑ ]+)\s+(Titular|Concubino/a|Hijo/a|Cónyuge|Padre|Madre)\s+(\d{7,9})\s+(\d{8,})$"
+    conteo = {}
+    datos = {}
+    diagnosticos = {}
+    for linea in texto.splitlines():
+        linea = linea.strip()
+        m = re.match(patron, linea)
+        if m:
+            diagnostico, dni, nombre, relacion, dni_afiliado, credencial = m.groups()
+            clave = (dni, nombre.strip(), credencial)
+            conteo[clave] = conteo.get(clave, 0) + 1
+            datos[clave] = (nombre.strip(), dni, credencial)
+            diagnosticos[clave] = diagnostico
+    if not os.path.exists('resultados'):
+        os.makedirs('resultados')
+    ruta_salida = 'resultados/lista_afiliados_certificados.txt'
+    with open(ruta_salida, 'w', encoding='utf-8') as f:
+        f.write("LISTADO DE AFILIADOS (FORMATO TABULAR) Y CANTIDAD DE VECES\n")
+        f.write("==========================================================\n\n")
+        claves_ordenadas = sorted(conteo.keys(), key=lambda x: conteo[x], reverse=True)
+        for i, clave in enumerate(claves_ordenadas, 1):
+            nombre, dni, credencial = datos[clave]
+            cantidad = conteo[clave]
+            diagnostico = diagnosticos.get(clave, "")
+            f.write(f"{i}. {nombre}\n")
+            f.write(f"   DNI: {dni}\n")
+            f.write(f"   Credencial: {credencial}\n")
+            f.write(f"   Cantidad de veces: {cantidad}\n")
+            f.write(f"   Diagnóstico: {diagnostico}\n")
+            f.write("-" * 50 + "\n")
+    print(f"\nArchivo guardado en: {os.path.abspath(ruta_salida)}")
+    return len(claves_ordenadas), sum(conteo.values())
 import re
 import os
 
-def extraer_datos(texto: str):
+def extraer_datos_certificados(texto: str):
     """
     Extrae afiliados de INSSSEP AMB, aunque haya líneas intermedias como 'Dispensada' y saltos de línea variables.
     """
@@ -82,33 +122,46 @@ def main():
         # Intentar primero con data_insssep_misRX.txt
         archivos_posibles = ['data_insssep_misRX.txt', 'entrada.txt']
         archivo_entrada = None
-        
+
         for archivo in archivos_posibles:
             if os.path.exists(archivo):
                 archivo_entrada = archivo
                 break
-        
+
         if not archivo_entrada:
             print("Error: No se encontró ningún archivo de entrada válido")
             print("Busqué en:", os.getcwd())
             print("Archivos disponibles:", os.listdir())
             return
-            
+
         print(f"Usando archivo: {archivo_entrada}")
-        
+
         # Leer el archivo
         with open(archivo_entrada, 'r', encoding='utf-8') as f:
             texto = f.read()
-        
+
         print(f"Archivo leído. Tamaño: {len(texto)} caracteres")
-        
-        # Procesar el texto
-        total_afiliados, total_recetas = extraer_datos(texto)
-        
+
+
+        # Diagnóstico: mostrar primeras 30 líneas del archivo de entrada
+        print("\n--- Primeras 30 líneas del archivo de entrada para diagnóstico ---")
+        for i, linea in enumerate(texto.splitlines()[:30], 1):
+            print(f"{i:02d}: {linea}")
+        print("--- Fin del diagnóstico ---\n")
+
+
+        # Procesar el texto con el extractor original
+        total_afiliados, total_recetas = extraer_datos_certificados(texto)
+
+        # Si no se encontró nada, intentar con el formato tabular
+        if total_afiliados == 0:
+            print("No se encontraron coincidencias con el extractor INSSSEP AMB. Intentando formato tabular...")
+            total_afiliados, total_recetas = extraer_tabular(texto)
+
         print("\nProcesamiento completado:")
         print(f"Total de afiliados únicos: {total_afiliados}")
         print(f"Total de recetas procesadas: {total_recetas}")
-        
+
     except Exception as e:
         print(f"Error: {str(e)}")
         import traceback
