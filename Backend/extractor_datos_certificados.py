@@ -13,8 +13,9 @@ def extraer_tabular(texto: str):
             campos = [c.strip() for c in linea.split(",")]
             if len(campos) < 6:
                 continue
-            diagnostico, dni, nombre, relacion, dni_afiliado, credencial = campos[:6]
-            clave = (nombre, dni, credencial)
+            diagnostico, dni_titular, nombre, relacion, dni_afiliado, credencial = campos[:6]
+            # Usar el DNI del familiar/afiliado atendido (columna 5) como clave y en la salida
+            clave = (nombre, dni_afiliado, credencial)
             if clave not in afiliados:
                 afiliados[clave] = {"cantidad": 0, "diagnosticos": set()}
             afiliados[clave]["cantidad"] += 1

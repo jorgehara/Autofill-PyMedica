@@ -66,7 +66,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Diagnóstico: B349
 --------------------------------------------------
 9. TOLOZA MELINA ANAHI
-   DNI: 37938383
+   DNI: 42068239
    Credencial: 27420682390
    Obra social: INSSSEP AMB
    Consultas: 2
@@ -98,7 +98,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Diagnóstico: J009
 --------------------------------------------------
 13. GIMENEZ EDRIS JUAN DAVID
-   DNI: 29456708
+   DNI: 49011848
    Credencial: 23490118489
    Obra social: INSSSEP AMB
    Consultas: 2
@@ -114,7 +114,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Diagnóstico: J129
 --------------------------------------------------
 15. SLAVIK MIA NAHIARA
-   DNI: 23071000
+   DNI: 54901414
    Credencial: 27549014149
    Obra social: INSSSEP AMB
    Consultas: 2
@@ -122,7 +122,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Diagnóstico: B349, J040
 --------------------------------------------------
 16. MUÑOZ BENICCIO MATTEO
-   DNI: 34040769
+   DNI: 56327714
    Credencial: 23563277149
    Obra social: INSSSEP AMB
    Consultas: 2
@@ -146,7 +146,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Diagnóstico: B349, N300
 --------------------------------------------------
 19. TISERA ALMA SAMIRA AYLEN
-   DNI: 26826677
+   DNI: 44946152
    Credencial: 27449461520
    Obra social: INSSSEP AMB
    Consultas: 2
@@ -170,7 +170,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Diagnóstico: A099
 --------------------------------------------------
 22. MITROVIC FIORELLA ABIGAIL
-   DNI: 32935277
+   DNI: 54178162
    Credencial: 27541781620
    Obra social: INSSSEP AMB
    Consultas: 2
@@ -186,7 +186,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Diagnóstico: J009
 --------------------------------------------------
 24. PAWLUK PABLO
-   DNI: 66619
+   DNI: 7806095
    Credencial: 20078060957
    Obra social: INSSSEP AMB
    Consultas: 2
@@ -258,7 +258,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Diagnóstico: J009
 --------------------------------------------------
 33. KOTELCZUK OLGA
-   DNI: 32046
+   DNI: 10990353
    Credencial: 27109903537
    Obra social: INSSSEP AMB
    Consultas: 1
@@ -274,7 +274,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Diagnóstico: B349
 --------------------------------------------------
 35. 34966484
-   DNI: I119
+   DNI: Titular
    Credencial: 34966484
    Obra social: INSSSEP AMB
    Consultas: 1
@@ -298,7 +298,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Diagnóstico: B349
 --------------------------------------------------
 38. LANDRIEL NICOLAS GABRIEL
-   DNI: 22897436
+   DNI: 45046947
    Credencial: 20450469476
    Obra social: INSSSEP AMB
    Consultas: 1
@@ -314,7 +314,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Diagnóstico: B349
 --------------------------------------------------
 40. BLANCO ANDREA CRISTINA
-   DNI: 26307203
+   DNI: 28396191
    Credencial: 2728396191
    Obra social: INSSSEP AMB
    Consultas: 1
@@ -338,7 +338,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Diagnóstico: B349
 --------------------------------------------------
 43. BILAN DE PELLERANO EMILIA
-   DNI: 39268
+   DNI: 5962459
    Credencial: 27059624593
    Obra social: INSSSEP AMB
    Consultas: 1
@@ -354,7 +354,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Diagnóstico: B349
 --------------------------------------------------
 45. QUINTANA GARCIA JOSEFINA
-   DNI: 29706496
+   DNI: 50859231
    Credencial: 27508592316
    Obra social: INSSSEP AMB
    Consultas: 1
@@ -378,7 +378,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Diagnóstico: A099
 --------------------------------------------------
 48. FERNANDEZ DE BENITEZ PURA
-   DNI: 52515
+   DNI: 5405750
    Credencial: 23054057504
    Obra social: INSSSEP AMB
    Consultas: 1
@@ -386,7 +386,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Diagnóstico: B349
 --------------------------------------------------
 49. AYALA VERON KIHARA NARELA
-   DNI: 29220091
+   DNI: 51029902
    Credencial: 27510299022
    Obra social: INSSSEP AMB
    Consultas: 1
@@ -410,7 +410,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Diagnóstico: J040
 --------------------------------------------------
 52. SANCHEZ
-   DNI: 36976111
+   DNI: Titular
    Credencial: 36976111
    Obra social: INSSSEP AMB
    Consultas: 1
@@ -418,7 +418,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Diagnóstico: B349
 --------------------------------------------------
 53. YBAÑEZ AGUSTIN FABIAN
-   DNI: 25132301
+   DNI: 44469865
    Credencial: 23444698659
    Obra social: INSSSEP AMB
    Consultas: 1
@@ -482,7 +482,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Diagnóstico: B349
 --------------------------------------------------
 61. LOPEZ DE ENCINA GLADYS MABEL
-   DNI: 64668
+   DNI: 23981023
    Credencial: 27239810239
    Obra social: INSSSEP AMB
    Consultas: 1
@@ -490,7 +490,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Diagnóstico: J009
 --------------------------------------------------
 62. LANDRIEL MERCEDES DEL CARMEN
-   DNI: 35373
+   DNI: 5962424
    Credencial: 27059624240
    Obra social: INSSSEP AMB
    Consultas: 1
@@ -514,7 +514,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Diagnóstico: B349
 --------------------------------------------------
 65. BERTINO DIDIER FACUNDO
-   DNI: 27025637
+   DNI: 53022036
    Credencial: 20530220363
    Obra social: INSSSEP AMB
    Consultas: 1
@@ -522,7 +522,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Diagnóstico: B349
 --------------------------------------------------
 66. IVANOFF STOINOVSKY PEDRO
-   DNI: 60658
+   DNI: 16945583
    Credencial: 20169455830
    Obra social: INSSSEP AMB
    Consultas: 1
@@ -578,7 +578,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Diagnóstico: B349
 --------------------------------------------------
 73. SANCHEZ FERNANDEZ VALENTINA
-   DNI: 28340313
+   DNI: 50921178
    Credencial: 27509211782
    Obra social: INSSSEP AMB
    Consultas: 1
@@ -610,7 +610,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Diagnóstico: J009
 --------------------------------------------------
 77. VODOPIVEC
-   DNI: 39776501
+   DNI: Titular
    Credencial: 39776501
    Obra social: INSSSEP AMB
    Consultas: 1
@@ -618,7 +618,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Diagnóstico: J029
 --------------------------------------------------
 78. 33377023 LUDUEÑA
-   DNI: 33377023
+   DNI: Hijo menor
    Credencial: 58533435
    Obra social: INSSSEP AMB
    Consultas: 1

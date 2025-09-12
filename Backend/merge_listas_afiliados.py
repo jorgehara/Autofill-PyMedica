@@ -46,9 +46,10 @@ def procesar_bloque(bloque, afiliados):
                 recetas = 0
         elif re.match(r'^\d+\. ', linea):
             nombre = linea.split('. ',1)[1].strip()
-    clave = (dni, nombre, credencial)
+    clave = (dni, nombre)
     if clave not in afiliados:
-        afiliados[clave] = {'diagnosticos': set(), 'consultas': 0, 'recetas': 0}
+        afiliados[clave] = {'credenciales': set(), 'diagnosticos': set(), 'consultas': 0, 'recetas': 0}
+    afiliados[clave]['credenciales'].add(credencial)
     afiliados[clave]['diagnosticos'].update(diagnosticos)
     afiliados[clave]['consultas'] += consultas
     afiliados[clave]['recetas'] += recetas
@@ -59,22 +60,32 @@ def mergear_listas(path1, path2, salida):
     total = a1.copy()
     for clave, datos in a2.items():
         if clave in total:
-            total[clave]['diagnosticos'].update(datos['diagnosticos'])
+            total[clave]['diagnosticos'].update(datos.get('diagnosticos', set()))
             total[clave]['consultas'] += datos.get('consultas', 0)
             total[clave]['recetas'] += datos.get('recetas', 0)
+            total[clave]['credenciales'].update(datos.get('credenciales', set()))
         else:
-            total[clave] = {'diagnosticos': set(datos['diagnosticos']), 'consultas': datos.get('consultas', 0), 'recetas': datos.get('recetas', 0)}
+            total[clave] = {
+                'credenciales': set(datos.get('credenciales', set())) if 'credenciales' in datos else set(),
+                'diagnosticos': set(datos.get('diagnosticos', set())),
+                'consultas': datos.get('consultas', 0),
+                'recetas': datos.get('recetas', 0)
+            }
+            # Si viene solo una credencial (de la versión vieja), agregarla
+            if 'credencial' in datos:
+                total[clave]['credenciales'].add(datos['credencial'])
     total_interacciones = sum(v['consultas'] + v['recetas'] for v in total.values())
-    # Ordenar por número de consultas de mayor a menor
-    items_ordenados = sorted(total.items(), key=lambda x: x[1]['consultas'], reverse=True)
+    # Ordenar por total de interacciones (consultas+recetas) de mayor a menor
+    items_ordenados = sorted(total.items(), key=lambda x: (x[1]['consultas'] + x[1]['recetas'], x[1]['consultas']), reverse=True)
     with open(salida, 'w', encoding='utf-8') as f:
         f.write('LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS\n')
         f.write('='*60+'\n\n')
         for i, (clave, datos) in enumerate(items_ordenados, 1):
-            nombre, dni, credencial = clave[1], clave[0], clave[2]
+            dni, nombre = clave[0], clave[1]
+            credenciales = ', '.join(sorted(datos['credenciales']))
             f.write(f'{i}. {nombre}\n')
             f.write(f'   DNI: {dni}\n')
-            f.write(f'   Credencial: {credencial}\n')
+            f.write(f'   Credencial: {credenciales}\n')
             f.write(f'   Diagnóstico: {", ".join(sorted(datos["diagnosticos"]))}\n')
             f.write(f'   Consultas: {datos["consultas"]}\n')
             f.write(f'   Recetas: {datos["recetas"]}\n')
