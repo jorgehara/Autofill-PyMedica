@@ -25,7 +25,7 @@ def extraer_datos(texto: str):
     if not os.path.exists('resultados'):
         os.makedirs('resultados')
 
-    ruta_salida = 'resultados/lista_afiliados.txt'
+    ruta_salida = 'resultados/lista_afiliados_recetas.txt'
     with open(ruta_salida, 'w', encoding='utf-8') as f:
         f.write("LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS\n")
         f.write("======================================================\n\n")
@@ -37,7 +37,9 @@ def extraer_datos(texto: str):
             f.write(f"   DNI: {dni}\n")
             f.write(f"   Credencial: {credencial}\n")
             f.write(f"   Obra social: INSSSEP AMB\n")
-            f.write(f"   Cantidad de recetas: {cantidad}\n")
+            f.write(f"   Consultas: 0\n")
+            f.write(f"   Recetas: {cantidad}\n")
+            f.write(f"   Diagnóstico: \n")
             f.write("-" * 50 + "\n")
     print(f"\nArchivo guardado en: {os.path.abspath(ruta_salida)}")
     return len(dnis_ordenados), sum(conteo_recetas.values())
@@ -61,7 +63,7 @@ def extraer_insssep_amb(texto: str):
     if not os.path.exists('resultados'):
         os.makedirs('resultados')
     
-    ruta_salida = 'resultados/lista_afiliados.txt'
+    ruta_salida = 'resultados/lista_afiliados_recetas.txt'
     with open(ruta_salida, 'w', encoding='utf-8') as f:
         f.write("LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS\n")
         f.write("======================================================\n\n")
@@ -79,32 +81,16 @@ def extraer_insssep_amb(texto: str):
 
 def main():
     try:
-        # Intentar primero con data_insssep_misRX.txt
-        archivos_posibles = ['data_insssep_misRX.txt', 'entrada.txt']
-        archivo_entrada = None
-        
-        for archivo in archivos_posibles:
-            if os.path.exists(archivo):
-                archivo_entrada = archivo
-                break
-        
-        if not archivo_entrada:
-            print("Error: No se encontró ningún archivo de entrada válido")
-            print("Busqué en:", os.getcwd())
-            print("Archivos disponibles:", os.listdir())
+
+        archivo_entrada = 'archivo_recetas.txt'
+        if not os.path.exists(archivo_entrada):
+            print(f"Error: No se encontró {archivo_entrada}")
             return
-            
         print(f"Usando archivo: {archivo_entrada}")
-        
-        # Leer el archivo
         with open(archivo_entrada, 'r', encoding='utf-8') as f:
             texto = f.read()
-        
         print(f"Archivo leído. Tamaño: {len(texto)} caracteres")
-        
-        # Procesar el texto
         total_afiliados, total_recetas = extraer_datos(texto)
-        
         print("\nProcesamiento completado:")
         print(f"Total de afiliados únicos: {total_afiliados}")
         print(f"Total de recetas procesadas: {total_recetas}")

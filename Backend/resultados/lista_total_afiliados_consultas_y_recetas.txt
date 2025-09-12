@@ -1,0 +1,1245 @@
+LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
+============================================================
+
+1. KRAWIEC ARIELA CARINA
+   DNI: 25854742
+   Credencial: 27258547425
+   Diagnóstico: B349, Z000
+   Consultas: 4
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 4
+--------------------------------------------------
+2. GONZALEZ MARIANELA SOLEDAD
+   DNI: 32511449
+   Credencial: 27325114490
+   Diagnóstico: B349, J009
+   Consultas: 3
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 3
+--------------------------------------------------
+3. BENITEZ EMILSE CAROLINA
+   DNI: 25813464
+   Credencial: 27258134643
+   Diagnóstico: B349, I119
+   Consultas: 3
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 3
+--------------------------------------------------
+4. KARDASZ ORNELLA LILIANA
+   DNI: 36976060
+   Credencial: 27369760608
+   Diagnóstico: M624
+   Consultas: 3
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 3
+--------------------------------------------------
+5. GAN MELANI DESIREE
+   DNI: 38503705
+   Credencial: 27385037053
+   Diagnóstico: B349, J009
+   Consultas: 3
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 3
+--------------------------------------------------
+6. BERTINO DANIEL ALCIDES
+   DNI: 27706549
+   Credencial: 20277065496
+   Diagnóstico: B349
+   Consultas: 2
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+7. KRAWIEC YANINA EVELIN
+   DNI: 28340627
+   Credencial: 27283406275
+   Diagnóstico: B349, I119
+   Consultas: 2
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+8. MUÑOZ OMAR ARIEL
+   DNI: 34040769
+   Credencial: 20340407696
+   Diagnóstico: B349
+   Consultas: 2
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+9. TOLOZA MELINA ANAHI
+   DNI: 37938383
+   Credencial: 27420682390
+   Diagnóstico: J009
+   Consultas: 2
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+10. FERNANDEZ FEDERICO JESUS
+   DNI: 37938383
+   Credencial: 20379383832
+   Diagnóstico: J009
+   Consultas: 2
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+11. FERNANDEZ SANDRA ISABEL
+   DNI: 28340633
+   Credencial: 23283406334
+   Diagnóstico: J009, Z000
+   Consultas: 2
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+12. RADLOVACKI ESTELA ALICIA
+   DNI: 22343363
+   Credencial: 23223433634
+   Diagnóstico: J009
+   Consultas: 2
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+13. GIMENEZ EDRIS JUAN DAVID
+   DNI: 29456708
+   Credencial: 23490118489
+   Diagnóstico: B349
+   Consultas: 2
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+14. SOSA CRISTINA CEFERINA
+   DNI: 22236114
+   Credencial: 27222361147
+   Diagnóstico: J129
+   Consultas: 2
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+15. SLAVIK MIA NAHIARA
+   DNI: 23071000
+   Credencial: 27549014149
+   Diagnóstico: B349, J040
+   Consultas: 2
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+16. MUÑOZ BENICCIO MATTEO
+   DNI: 34040769
+   Credencial: 23563277149
+   Diagnóstico: B349, J009
+   Consultas: 2
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+17. VARGA DIANA PAOLA
+   DNI: 28625269
+   Credencial: 27286252694
+   Diagnóstico: A099, B349
+   Consultas: 2
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+18. SCHLEGEL YANINA JOHANA
+   DNI: 33038670
+   Credencial: 27330386709
+   Diagnóstico: B349, N300
+   Consultas: 2
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+19. TISERA ALMA SAMIRA AYLEN
+   DNI: 26826677
+   Credencial: 27449461520
+   Diagnóstico: B349
+   Consultas: 2
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+20. SOSA MARIA VICTORIA
+   DNI: 37938125
+   Credencial: 27379381257
+   Diagnóstico: B349
+   Consultas: 2
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+21. MONTES NOELIA ALEJANDRA
+   DNI: 33651545
+   Credencial: 27336515454
+   Diagnóstico: A099
+   Consultas: 2
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+22. MITROVIC FIORELLA ABIGAIL
+   DNI: 32935277
+   Credencial: 27541781620
+   Diagnóstico: J040
+   Consultas: 2
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+23. AGUILAR FIAMA ANTONELLA
+   DNI: 37762102
+   Credencial: 27377621021
+   Diagnóstico: J009
+   Consultas: 2
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+24. PAWLUK PABLO
+   DNI: 66619
+   Credencial: 20078060957
+   Diagnóstico: B349
+   Consultas: 2
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+25. MUSTAFAS ANDREA MAGDALENA
+   DNI: 40031719
+   Credencial: 23400317194
+   Diagnóstico: B349
+   Consultas: 2
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+26. BENITEZ INES VILMA VIVIANA
+   DNI: 17495661
+   Credencial: 27174956613
+   Diagnóstico: J009
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+27. DALKE IRMA ELENA
+   DNI: 18199339
+   Credencial: 27181993397
+   Diagnóstico: B349
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+28. BARBOZA SANDRA CAROLINA
+   DNI: 24597031
+   Credencial: 27245970310
+   Diagnóstico: B349
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+29. DIAZ MARISEL ANAHI
+   DNI: 41039456
+   Credencial: 27410394567
+   Diagnóstico: B349
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+30. ROMERO NILDA MARCELA
+   DNI: 25379924
+   Credencial: 27253799248
+   Diagnóstico: N300
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+31. VERON GERMAN DAVID
+   DNI: 29220091
+   Credencial: 23292200919
+   Diagnóstico: B349
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+32. ALTAMIRANO PAULA IVANA
+   DNI: 29057852
+   Credencial: 27290578529
+   Diagnóstico: J009
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+33. KOTELCZUK OLGA
+   DNI: 32046
+   Credencial: 27109903537
+   Diagnóstico: I119
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+34. MONTES LUCIANA MARISEL
+   DNI: 36671286
+   Credencial: 27366712866
+   Diagnóstico: B349
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+35. 34966484
+   DNI: I119
+   Credencial: 34966484
+   Diagnóstico: J009
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+36. MANSILLA ANIBAL NESTOR
+   DNI: 29220122
+   Credencial: 20292201223
+   Diagnóstico: B349
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+37. BUSTAMANTE MARISA ISABEL
+   DNI: 20276614
+   Credencial: 27202766140
+   Diagnóstico: B349
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+38. LANDRIEL NICOLAS GABRIEL
+   DNI: 22897436
+   Credencial: 20450469476
+   Diagnóstico: J009
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+39. IWAÑSKY EMILIA
+   DNI: 13257500
+   Credencial: 27132575008
+   Diagnóstico: B349
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+40. BLANCO ANDREA CRISTINA
+   DNI: 26307203
+   Credencial: 2728396191
+   Diagnóstico: B349
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+41. SCHAFFINO SILVINA SOLEDAD
+   DNI: 29826863
+   Credencial: 27298268634
+   Diagnóstico: J009
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+42. LANDRIEL CANO CARINA ESTER
+   DNI: 25427141
+   Credencial: 27254271417
+   Diagnóstico: B349
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+43. BILAN DE PELLERANO EMILIA
+   DNI: 39268
+   Credencial: 27059624593
+   Diagnóstico: I119
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+44. GARCIA ADRIANA CAROLINA
+   DNI: 29706496
+   Credencial: 27297064966
+   Diagnóstico: B349
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+45. QUINTANA GARCIA JOSEFINA
+   DNI: 29706496
+   Credencial: 27508592316
+   Diagnóstico: B349
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+46. GALIANO VANESA DEL CARMEN
+   DNI: 30580937
+   Credencial: 27305809379
+   Diagnóstico: I119
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+47. FUS RICARDO MARCELO JOSE
+   DNI: 23218576
+   Credencial: 20232185768
+   Diagnóstico: A099
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+48. FERNANDEZ DE BENITEZ PURA
+   DNI: 52515
+   Credencial: 23054057504
+   Diagnóstico: B349
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+49. AYALA VERON KIHARA NARELA
+   DNI: 29220091
+   Credencial: 27510299022
+   Diagnóstico: B349
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+50. INSAURRALDE MAYRA MARIA JOSE
+   DNI: 32061712
+   Credencial: 27320617125
+   Diagnóstico: B349
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+51. SAUCEDO YESICA ANABEL
+   DNI: 37938205
+   Credencial: 27379382059
+   Diagnóstico: J040
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+52. SANCHEZ
+   DNI: 36976111
+   Credencial: 36976111
+   Diagnóstico: B349
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+53. YBAÑEZ AGUSTIN FABIAN
+   DNI: 25132301
+   Credencial: 23444698659
+   Diagnóstico: J009
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+54. BALUK ERIKA LUCIANA
+   DNI: 38383763
+   Credencial: 23383837634
+   Diagnóstico: J040
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+55. MARTIN MORO MARIA ALEJANDRA
+   DNI: 34458439
+   Credencial: 24344584393
+   Diagnóstico: B349
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+56. SOTELO PABLO TEOFILO
+   DNI: 26307366
+   Credencial: 20263073666
+   Diagnóstico: J040
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+57. VEGA VERONICA JESUS
+   DNI: 31613160
+   Credencial: 27316131609
+   Diagnóstico: N944
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+58. PAWLUK FRANCO ROCIO SOLEDAD
+   DNI: 37938219
+   Credencial: 27379382199
+   Diagnóstico: B349
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+59. DECCA LORENA PATRICIA
+   DNI: 26929906
+   Credencial: 27269299067
+   Diagnóstico: B349
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+60. FANDRICH CARMEN CECILIA
+   DNI: 34966525
+   Credencial: 27349665250
+   Diagnóstico: B349
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+61. LOPEZ DE ENCINA GLADYS MABEL
+   DNI: 64668
+   Credencial: 27239810239
+   Diagnóstico: J009
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+62. LANDRIEL MERCEDES DEL CARMEN
+   DNI: 35373
+   Credencial: 27059624240
+   Diagnóstico: N300
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+63. ROI GISELA MARILIN
+   DNI: 35688600
+   Credencial: 27356886009
+   Diagnóstico: J029
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+64. RAMIREZ CAROLINA ELIZABETH
+   DNI: 27025637
+   Credencial: 27270256371
+   Diagnóstico: B349
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+65. BERTINO DIDIER FACUNDO
+   DNI: 27025637
+   Credencial: 20530220363
+   Diagnóstico: B349
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+66. IVANOFF STOINOVSKY PEDRO
+   DNI: 60658
+   Credencial: 20169455830
+   Diagnóstico: E568
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+67. LOBATO CLAUDIO DANIELO
+   DNI: 21546254
+   Credencial: 20215462545
+   Diagnóstico: J009
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+68. DIDUCH YANINA MELISA
+   DNI: 36976106
+   Credencial: 24369761
+   Diagnóstico: J040
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+69. NIKITIUK NATALIA
+   DNI: 14137494
+   Credencial: 27141374945
+   Diagnóstico: J009
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+70. CABAÑA ANDREA SOLEDAD
+   DNI: 33615019
+   Credencial: 27336150197
+   Diagnóstico: B349
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+71. PILIPCZUK DANIEL ERNESTO
+   DNI: 32061881
+   Credencial: 23320618819
+   Diagnóstico: B349
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+72. VICENTIN MONICA BIBIANA
+   DNI: 21859364
+   Credencial: 27218593645
+   Diagnóstico: B349
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+73. SANCHEZ FERNANDEZ VALENTINA
+   DNI: 28340313
+   Credencial: 27509211782
+   Diagnóstico: Z000
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+74. SZKAMARDA DANIELA ELIZABETH
+   DNI: 38383722
+   Credencial: 27383837222
+   Diagnóstico: J009
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+75. ALMADA MARIA INES
+   DNI: 34040940
+   Credencial: 27340409405
+   Diagnóstico: B349
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+76. VALEFF JESSICA IVANA
+   DNI: 33615155
+   Credencial: 23336151554
+   Diagnóstico: J009
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+77. VODOPIVEC
+   DNI: 39776501
+   Credencial: 39776501
+   Diagnóstico: J029
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+78. 33377023 LUDUEÑA
+   DNI: 33377023
+   Credencial: 58533435
+   Diagnóstico: J029
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+79. BORSUK LAURA LEONELA
+   DNI: 34966484
+   Credencial: 23349664844
+   Diagnóstico: I119
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+80. MARTINEZ MAURO SEBASTIAN
+   DNI: 34567137
+   Credencial: 20345671375
+   Diagnóstico: A099
+   Consultas: 1
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+81. 
+   DNI: 
+   Credencial: 
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 0
+   Total de interacciones (consultas+recetas): 0
+--------------------------------------------------
+82. ALMIRON HECTOR ANIBAL
+   DNI: 20093337
+   Credencial: 8000419217
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 5
+   Total de interacciones (consultas+recetas): 5
+--------------------------------------------------
+83. SOTELO SUSANA AIDE
+   DNI: 17919349
+   Credencial: 8000071505
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 4
+   Total de interacciones (consultas+recetas): 4
+--------------------------------------------------
+84. JARA JORGE
+   DNI: 33824963
+   Credencial: 8000553461
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 4
+   Total de interacciones (consultas+recetas): 4
+--------------------------------------------------
+85. HOLUBEK EVELIN JANET
+   DNI: 37938107
+   Credencial: 8000544143
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 4
+   Total de interacciones (consultas+recetas): 4
+--------------------------------------------------
+86. NIKITIUK NATALIA
+   DNI: 14137494
+   Credencial: 8000468150
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 4
+   Total de interacciones (consultas+recetas): 4
+--------------------------------------------------
+87. BILAN DE PELLERANO EMILIA
+   DNI: 5962459
+   Credencial: 8000016602
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 4
+   Total de interacciones (consultas+recetas): 4
+--------------------------------------------------
+88. VODOPIVEC AMALIA BEATRI
+   DNI: 16428747
+   Credencial: 8000064949
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 4
+   Total de interacciones (consultas+recetas): 4
+--------------------------------------------------
+89. ACOSTA MONICA BEATRIZ
+   DNI: 22236141
+   Credencial: 8000079295
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 4
+   Total de interacciones (consultas+recetas): 4
+--------------------------------------------------
+90. KRAWIEC ARIELA CARINA
+   DNI: 25854742
+   Credencial: 8000618739
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 3
+   Total de interacciones (consultas+recetas): 3
+--------------------------------------------------
+91. SLAVIK JUAN CARLOS
+   DNI: 13576116
+   Credencial: 8000055037
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 3
+   Total de interacciones (consultas+recetas): 3
+--------------------------------------------------
+92. SLAVIK MIA NAHIARA
+   DNI: 54901414
+   Credencial: 8000537733
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 3
+   Total de interacciones (consultas+recetas): 3
+--------------------------------------------------
+93. MONZON MARIELA VANINA
+   DNI: 26826677
+   Credencial: 8000573727
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 3
+   Total de interacciones (consultas+recetas): 3
+--------------------------------------------------
+94. GARCIA NOELI SOLEDAD
+   DNI: 36245523
+   Credencial: 8000542962
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 3
+   Total de interacciones (consultas+recetas): 3
+--------------------------------------------------
+95. MENDOZA OSCAR ALBERTO
+   DNI: 14274582
+   Credencial: 8000373193
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 3
+   Total de interacciones (consultas+recetas): 3
+--------------------------------------------------
+96. GARIBOGLIO STANGAFERRO CARINA
+   DNI: 22730614
+   Credencial: 8000079902
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 3
+   Total de interacciones (consultas+recetas): 3
+--------------------------------------------------
+97. PASICH ANGEL
+   DNI: 17760564
+   Credencial: 8000350081
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 3
+   Total de interacciones (consultas+recetas): 3
+--------------------------------------------------
+98. PECOVICH ANDREA ALEJANDRA
+   DNI: 23981010
+   Credencial: 8000088334
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 3
+   Total de interacciones (consultas+recetas): 3
+--------------------------------------------------
+99. DIDUCH YANINA MELISA
+   DNI: 36976106
+   Credencial: 8000552768
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 3
+   Total de interacciones (consultas+recetas): 3
+--------------------------------------------------
+100. BENITEZ INES VILMA VIVIANA
+   DNI: 17495661
+   Credencial: 8000343136
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 2
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+101. KARDASZ IVANA NOELIA
+   DNI: 32664697
+   Credencial: 8000553453
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 2
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+102. CUR LUCILA MARISA
+   DNI: 22749988
+   Credencial: 8000425140
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 2
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+103. LOPEZ RAMONA MERCEDES
+   DNI: 16428744
+   Credencial: 8000064771
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 2
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+104. VALEFF JESSICA IVANA
+   DNI: 33615155
+   Credencial: 8000422399
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 2
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+105. NAGORNY ALBA IRIS
+   DNI: 28340455
+   Credencial: 8000312622
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 2
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+106. ROMERO NILDA MARCELA
+   DNI: 25379924
+   Credencial: 8000342950
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 2
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+107. ALTAMIRANO PAULA IVANA
+   DNI: 29057852
+   Credencial: 8000448902
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 2
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+108. KOTELCZUK OLGA
+   DNI: 10990353
+   Credencial: 8000041632
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 2
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+109. PUJOL FERNANDEZ LAUTARO JAVIER
+   DNI: 48730093
+   Credencial: 8000378810
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 2
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+110. ASSL GLADYS BEATRIZ
+   DNI: 29057937
+   Credencial: 8000339025
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 2
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+111. IWAÑSKY EMILIA
+   DNI: 13257500
+   Credencial: 8000053406
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 2
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+112. ESPARZA VIDAL LUIS MARIA
+   DNI: 10174882
+   Credencial: 8000392741
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 2
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+113. VERON MARIELA INES
+   DNI: 32061831
+   Credencial: 8000587745
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 2
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+114. GIMENEZ ROBERTO OSCAR
+   DNI: 11249647
+   Credencial: 8000044021
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 2
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+115. ALTAMIRANO ZUNILDA LIDIA
+   DNI: 13725316
+   Credencial: 8000325240
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 2
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+116. PAWLUK FRANCO ROCIO SOLEDAD
+   DNI: 37938219
+   Credencial: 8000497615
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 2
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+117. DECCA LORENA PATRICIA
+   DNI: 26929906
+   Credencial: 8000634339
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 2
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+118. FANDRICH CARMEN CECILIA
+   DNI: 34966525
+   Credencial: 8000607960
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 2
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+119. CORDOBA FABIANA DEL CARMEN
+   DNI: 17919410
+   Credencial: 8000071506
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 2
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+120. SOSA CRISTINA CEFERINA
+   DNI: 22236114
+   Credencial: 8000078585
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 2
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+121. IVANOFF STOINOVSKY PEDRO
+   DNI: 16945583
+   Credencial: 8000067849
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 2
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+122. KAVGIC CLARA INES
+   DNI: 42276509
+   Credencial: 8000300510
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 2
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+123. BILAN ELENA TERESA
+   DNI: 13576177
+   Credencial: 8000337072
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 2
+   Total de interacciones (consultas+recetas): 2
+--------------------------------------------------
+124. PACHECO PRISCILA ANTONELLA
+   DNI: 47618292
+   Credencial: 8000358195
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+125. FERNANDEZ ARES LIAM
+   DNI: 70345278
+   Credencial: 8000632673
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+126. LOPEZ MARIA ROSA
+   DNI: 17189713
+   Credencial: 8000068824
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+127. DULLKA GUILLERMO ABEL
+   DNI: 40035635
+   Credencial: 8000628650
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+128. VERON GERMAN DAVID
+   DNI: 29220091
+   Credencial: 8000377591
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+129. KONOWALCZUK BEATRIZ NOEMI
+   DNI: 20394102
+   Credencial: 8000074938
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+130. FERNANDEZ SANDRA ISABEL
+   DNI: 28340633
+   Credencial: 8000312367
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+131. RAMIREZ CAROLINA ELIZABETH
+   DNI: 27025637
+   Credencial: 8000096916
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+132. FUS RICARDO MARCELO JOSE
+   DNI: 23218576
+   Credencial: 8000439990
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+133. LANDRIEL NICOLAS GABRIEL
+   DNI: 45046947
+   Credencial: 8000321478
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+134. GIMENEZ CINTIA NATALIA
+   DNI: 36970008
+   Credencial: 8000543610
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+135. BLANCO ANDREA CRISTINA
+   DNI: 28396191
+   Credencial: 8000353171
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+136. SCHAFFINO SILVINA SOLEDAD
+   DNI: 29826863
+   Credencial: 8000353957
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+137. LANDRIEL CANO CARINA ESTER
+   DNI: 25427141
+   Credencial: 8000351834
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+138. SERRANO ANA BEATRIZ
+   DNI: 14274687
+   Credencial: 8000312179
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+139. DOMINGUEZ SONIA VANESA
+   DNI: 28489664
+   Credencial: 8000327643
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+140. MOSIEJCZUK PEDRO EDUARDO
+   DNI: 14932807
+   Credencial: 8000207860
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+141. BERTINO DORA HAIDEE
+   DNI: 30580923
+   Credencial: 8000466751
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+142. TOLOZA MELINA ANAHI
+   DNI: 42068239
+   Credencial: 8000560106
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+143. FERNANDEZ FEDERICO JESUS
+   DNI: 37938383
+   Credencial: 8000522802
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+144. KUCEK GLADYS ESTHER
+   DNI: 23885989
+   Credencial: 8000080939
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+145. AYALA, TAMARA ELIZABETH
+   DNI: 35686560
+   Credencial: 8000605246
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+146. SANCHEZ, JESICA PAOLA
+   DNI: 36976111
+   Credencial: 8000619017
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+147. YBAÑEZ AGUSTIN FABIAN
+   DNI: 44469865
+   Credencial: 8000377603
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+148. BALUK ERIKA LUCIANA
+   DNI: 38383763
+   Credencial: 8000604499
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+149. GALIANO VANESA DEL CARMEN
+   DNI: 30580937
+   Credencial: 8000576416
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+150. CONTRERAS PETRONA
+   DNI: 5962452
+   Credencial: 8000017223
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+151. KARDASZ SOLEDAD EUNICE
+   DNI: 34966508
+   Credencial: 8000627494
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+152. IVIN ABIGAIL ANAHI
+   DNI: 36671554
+   Credencial: 8000625348
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+153. LOPEZ DE ENCINA GLADYS MABEL
+   DNI: 23981023
+   Credencial: 8000234863
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+154. GEORGEFF JORGE SIMON
+   DNI: 12246895
+   Credencial: 8000226655
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+155. ALVARES ANDREA ALEJANDRA
+   DNI: 31149580
+   Credencial: 8000468413
+   Diagnóstico: 
+   Consultas: 0
+   Recetas: 1
+   Total de interacciones (consultas+recetas): 1
+--------------------------------------------------
+
+TOTAL FINAL DE INTERACCIONES: 254
