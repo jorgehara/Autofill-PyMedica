@@ -4,7 +4,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 1. KRAWIEC ARIELA CARINA
    DNI: 25854742
    Credencial: 27258547425, 8000618739
-   Diagnóstico: B349, Z000
+   Diagnóstico: B349, J029, Z000, J129, T784, B349, Z000
    Consultas: 4
    Recetas: 3
    Total de interacciones (consultas+recetas): 7
@@ -12,7 +12,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 2. SLAVIK MIA NAHIARA
    DNI: 54901414
    Credencial: 27549014149, 8000537733
-   Diagnóstico: B349, J040
+   Diagnóstico: B349, J029, Z000, J129, T784, B349, J040
    Consultas: 2
    Recetas: 3
    Total de interacciones (consultas+recetas): 5
@@ -20,7 +20,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 3. BILAN DE PELLERANO EMILIA
    DNI: 5962459
    Credencial: 27059624593, 8000016602
-   Diagnóstico: I119
+   Diagnóstico: B349, J029, Z000, J129, T784, I119
    Consultas: 1
    Recetas: 4
    Total de interacciones (consultas+recetas): 5
@@ -28,7 +28,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 4. NIKITIUK NATALIA
    DNI: 14137494
    Credencial: 27141374945, 8000468150
-   Diagnóstico: J009
+   Diagnóstico: B349, J029, Z000, J129, T784, J009
    Consultas: 1
    Recetas: 4
    Total de interacciones (consultas+recetas): 5
@@ -36,7 +36,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 5. ALMIRON HECTOR ANIBAL
    DNI: 20093337
    Credencial: 8000419217
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 5
    Total de interacciones (consultas+recetas): 5
@@ -44,7 +44,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 6. SOSA CRISTINA CEFERINA
    DNI: 22236114
    Credencial: 27222361147, 8000078585
-   Diagnóstico: J129
+   Diagnóstico: B349, J029, Z000, J129, T784, J129
    Consultas: 2
    Recetas: 2
    Total de interacciones (consultas+recetas): 4
@@ -52,7 +52,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 7. DIDUCH YANINA MELISA
    DNI: 36976106
    Credencial: 24369761, 8000552768
-   Diagnóstico: J040
+   Diagnóstico: B349, J029, Z000, J129, T784, J040
    Consultas: 1
    Recetas: 3
    Total de interacciones (consultas+recetas): 4
@@ -60,7 +60,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 8. SOTELO SUSANA AIDE
    DNI: 17919349
    Credencial: 8000071505
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 4
    Total de interacciones (consultas+recetas): 4
@@ -68,7 +68,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 9. JARA JORGE
    DNI: 33824963
    Credencial: 8000553461
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 4
    Total de interacciones (consultas+recetas): 4
@@ -76,7 +76,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 10. HOLUBEK EVELIN JANET
    DNI: 37938107
    Credencial: 8000544143
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 4
    Total de interacciones (consultas+recetas): 4
@@ -84,7 +84,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 11. VODOPIVEC AMALIA BEATRI
    DNI: 16428747
    Credencial: 8000064949
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 4
    Total de interacciones (consultas+recetas): 4
@@ -92,7 +92,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 12. ACOSTA MONICA BEATRIZ
    DNI: 22236141
    Credencial: 8000079295
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 4
    Total de interacciones (consultas+recetas): 4
@@ -132,7 +132,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 17. TOLOZA MELINA ANAHI
    DNI: 42068239
    Credencial: 27420682390, 8000560106
-   Diagnóstico: J009
+   Diagnóstico: B349, J029, Z000, J129, T784, J009
    Consultas: 2
    Recetas: 1
    Total de interacciones (consultas+recetas): 3
@@ -140,7 +140,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 18. FERNANDEZ FEDERICO JESUS
    DNI: 37938383
    Credencial: 20379383832, 8000522802
-   Diagnóstico: J009
+   Diagnóstico: B349, J029, Z000, J129, T784, J009
    Consultas: 2
    Recetas: 1
    Total de interacciones (consultas+recetas): 3
@@ -148,7 +148,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 19. FERNANDEZ SANDRA ISABEL
    DNI: 28340633
    Credencial: 23283406334, 8000312367
-   Diagnóstico: J009, Z000
+   Diagnóstico: B349, J029, Z000, J129, T784, J009, Z000
    Consultas: 2
    Recetas: 1
    Total de interacciones (consultas+recetas): 3
@@ -156,7 +156,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 20. BENITEZ INES VILMA VIVIANA
    DNI: 17495661
    Credencial: 27174956613, 8000343136
-   Diagnóstico: J009
+   Diagnóstico: B349, J029, Z000, J129, T784, J009
    Consultas: 1
    Recetas: 2
    Total de interacciones (consultas+recetas): 3
@@ -164,7 +164,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 21. ROMERO NILDA MARCELA
    DNI: 25379924
    Credencial: 27253799248, 8000342950
-   Diagnóstico: N300
+   Diagnóstico: B349, J029, Z000, J129, T784, N300
    Consultas: 1
    Recetas: 2
    Total de interacciones (consultas+recetas): 3
@@ -172,7 +172,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 22. ALTAMIRANO PAULA IVANA
    DNI: 29057852
    Credencial: 27290578529, 8000448902
-   Diagnóstico: J009
+   Diagnóstico: B349, J029, Z000, J129, T784, J009
    Consultas: 1
    Recetas: 2
    Total de interacciones (consultas+recetas): 3
@@ -180,7 +180,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 23. KOTELCZUK OLGA
    DNI: 10990353
    Credencial: 27109903537, 8000041632
-   Diagnóstico: I119
+   Diagnóstico: B349, J029, Z000, J129, T784, I119
    Consultas: 1
    Recetas: 2
    Total de interacciones (consultas+recetas): 3
@@ -188,7 +188,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 24. IWAÑSKY EMILIA
    DNI: 13257500
    Credencial: 27132575008, 8000053406
-   Diagnóstico: B349
+   Diagnóstico: B349, B349, J029, Z000, J129, T784
    Consultas: 1
    Recetas: 2
    Total de interacciones (consultas+recetas): 3
@@ -196,7 +196,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 25. PAWLUK FRANCO ROCIO SOLEDAD
    DNI: 37938219
    Credencial: 27379382199, 8000497615
-   Diagnóstico: B349
+   Diagnóstico: B349, B349, J029, Z000, J129, T784
    Consultas: 1
    Recetas: 2
    Total de interacciones (consultas+recetas): 3
@@ -204,7 +204,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 26. DECCA LORENA PATRICIA
    DNI: 26929906
    Credencial: 27269299067, 8000634339
-   Diagnóstico: B349
+   Diagnóstico: B349, B349, J029, Z000, J129, T784
    Consultas: 1
    Recetas: 2
    Total de interacciones (consultas+recetas): 3
@@ -212,7 +212,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 27. FANDRICH CARMEN CECILIA
    DNI: 34966525
    Credencial: 27349665250, 8000607960
-   Diagnóstico: B349
+   Diagnóstico: B349, B349, J029, Z000, J129, T784
    Consultas: 1
    Recetas: 2
    Total de interacciones (consultas+recetas): 3
@@ -220,7 +220,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 28. IVANOFF STOINOVSKY PEDRO
    DNI: 16945583
    Credencial: 20169455830, 8000067849
-   Diagnóstico: E568
+   Diagnóstico: B349, J029, Z000, J129, T784, E568
    Consultas: 1
    Recetas: 2
    Total de interacciones (consultas+recetas): 3
@@ -228,7 +228,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 29. VALEFF JESSICA IVANA
    DNI: 33615155
    Credencial: 23336151554, 8000422399
-   Diagnóstico: J009
+   Diagnóstico: B349, J029, Z000, J129, T784, J009
    Consultas: 1
    Recetas: 2
    Total de interacciones (consultas+recetas): 3
@@ -236,7 +236,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 30. SLAVIK JUAN CARLOS
    DNI: 13576116
    Credencial: 8000055037
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 3
    Total de interacciones (consultas+recetas): 3
@@ -244,7 +244,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 31. MONZON MARIELA VANINA
    DNI: 26826677
    Credencial: 8000573727
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 3
    Total de interacciones (consultas+recetas): 3
@@ -252,7 +252,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 32. GARCIA NOELI SOLEDAD
    DNI: 36245523
    Credencial: 8000542962
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 3
    Total de interacciones (consultas+recetas): 3
@@ -260,7 +260,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 33. MENDOZA OSCAR ALBERTO
    DNI: 14274582
    Credencial: 8000373193
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 3
    Total de interacciones (consultas+recetas): 3
@@ -268,7 +268,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 34. GARIBOGLIO STANGAFERRO CARINA
    DNI: 22730614
    Credencial: 8000079902
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 3
    Total de interacciones (consultas+recetas): 3
@@ -276,7 +276,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 35. PASICH ANGEL
    DNI: 17760564
    Credencial: 8000350081
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 3
    Total de interacciones (consultas+recetas): 3
@@ -284,7 +284,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 36. PECOVICH ANDREA ALEJANDRA
    DNI: 23981010
    Credencial: 8000088334
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 3
    Total de interacciones (consultas+recetas): 3
@@ -412,7 +412,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 52. VERON GERMAN DAVID
    DNI: 29220091
    Credencial: 23292200919, 8000377591
-   Diagnóstico: B349
+   Diagnóstico: B349, B349, J029, Z000, J129, T784
    Consultas: 1
    Recetas: 1
    Total de interacciones (consultas+recetas): 2
@@ -420,7 +420,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 53. LANDRIEL NICOLAS GABRIEL
    DNI: 45046947
    Credencial: 20450469476, 8000321478
-   Diagnóstico: J009
+   Diagnóstico: B349, J029, Z000, J129, T784, J009
    Consultas: 1
    Recetas: 1
    Total de interacciones (consultas+recetas): 2
@@ -428,7 +428,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 54. BLANCO ANDREA CRISTINA
    DNI: 28396191
    Credencial: 2728396191, 8000353171
-   Diagnóstico: B349
+   Diagnóstico: B349, B349, J029, Z000, J129, T784
    Consultas: 1
    Recetas: 1
    Total de interacciones (consultas+recetas): 2
@@ -436,7 +436,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 55. SCHAFFINO SILVINA SOLEDAD
    DNI: 29826863
    Credencial: 27298268634, 8000353957
-   Diagnóstico: J009
+   Diagnóstico: B349, J029, Z000, J129, T784, J009
    Consultas: 1
    Recetas: 1
    Total de interacciones (consultas+recetas): 2
@@ -444,7 +444,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 56. LANDRIEL CANO CARINA ESTER
    DNI: 25427141
    Credencial: 27254271417, 8000351834
-   Diagnóstico: B349
+   Diagnóstico: B349, B349, J029, Z000, J129, T784
    Consultas: 1
    Recetas: 1
    Total de interacciones (consultas+recetas): 2
@@ -452,7 +452,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 57. GALIANO VANESA DEL CARMEN
    DNI: 30580937
    Credencial: 27305809379, 8000576416
-   Diagnóstico: I119
+   Diagnóstico: B349, J029, Z000, J129, T784, I119
    Consultas: 1
    Recetas: 1
    Total de interacciones (consultas+recetas): 2
@@ -460,7 +460,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 58. FUS RICARDO MARCELO JOSE
    DNI: 23218576
    Credencial: 20232185768, 8000439990
-   Diagnóstico: A099
+   Diagnóstico: A099, B349, J029, Z000, J129, T784
    Consultas: 1
    Recetas: 1
    Total de interacciones (consultas+recetas): 2
@@ -468,7 +468,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 59. YBAÑEZ AGUSTIN FABIAN
    DNI: 44469865
    Credencial: 23444698659, 8000377603
-   Diagnóstico: J009
+   Diagnóstico: B349, J029, Z000, J129, T784, J009
    Consultas: 1
    Recetas: 1
    Total de interacciones (consultas+recetas): 2
@@ -476,7 +476,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 60. BALUK ERIKA LUCIANA
    DNI: 38383763
    Credencial: 23383837634, 8000604499
-   Diagnóstico: J040
+   Diagnóstico: B349, J029, Z000, J129, T784, J040
    Consultas: 1
    Recetas: 1
    Total de interacciones (consultas+recetas): 2
@@ -484,7 +484,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 61. LOPEZ DE ENCINA GLADYS MABEL
    DNI: 23981023
    Credencial: 27239810239, 8000234863
-   Diagnóstico: J009
+   Diagnóstico: B349, J029, Z000, J129, T784, J009
    Consultas: 1
    Recetas: 1
    Total de interacciones (consultas+recetas): 2
@@ -492,7 +492,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 62. RAMIREZ CAROLINA ELIZABETH
    DNI: 27025637
    Credencial: 27270256371, 8000096916
-   Diagnóstico: B349
+   Diagnóstico: B349, B349, J029, Z000, J129, T784
    Consultas: 1
    Recetas: 1
    Total de interacciones (consultas+recetas): 2
@@ -500,7 +500,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 63. KARDASZ IVANA NOELIA
    DNI: 32664697
    Credencial: 8000553453
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 2
    Total de interacciones (consultas+recetas): 2
@@ -508,7 +508,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 64. CUR LUCILA MARISA
    DNI: 22749988
    Credencial: 8000425140
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 2
    Total de interacciones (consultas+recetas): 2
@@ -516,7 +516,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 65. LOPEZ RAMONA MERCEDES
    DNI: 16428744
    Credencial: 8000064771
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 2
    Total de interacciones (consultas+recetas): 2
@@ -524,7 +524,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 66. NAGORNY ALBA IRIS
    DNI: 28340455
    Credencial: 8000312622
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 2
    Total de interacciones (consultas+recetas): 2
@@ -532,7 +532,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 67. PUJOL FERNANDEZ LAUTARO JAVIER
    DNI: 48730093
    Credencial: 8000378810
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 2
    Total de interacciones (consultas+recetas): 2
@@ -540,7 +540,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 68. ASSL GLADYS BEATRIZ
    DNI: 29057937
    Credencial: 8000339025
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 2
    Total de interacciones (consultas+recetas): 2
@@ -548,7 +548,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 69. ESPARZA VIDAL LUIS MARIA
    DNI: 10174882
    Credencial: 8000392741
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 2
    Total de interacciones (consultas+recetas): 2
@@ -556,7 +556,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 70. VERON MARIELA INES
    DNI: 32061831
    Credencial: 8000587745
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 2
    Total de interacciones (consultas+recetas): 2
@@ -564,7 +564,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 71. GIMENEZ ROBERTO OSCAR
    DNI: 11249647
    Credencial: 8000044021
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 2
    Total de interacciones (consultas+recetas): 2
@@ -572,7 +572,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 72. ALTAMIRANO ZUNILDA LIDIA
    DNI: 13725316
    Credencial: 8000325240
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 2
    Total de interacciones (consultas+recetas): 2
@@ -580,7 +580,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 73. CORDOBA FABIANA DEL CARMEN
    DNI: 17919410
    Credencial: 8000071506
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 2
    Total de interacciones (consultas+recetas): 2
@@ -588,7 +588,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 74. KAVGIC CLARA INES
    DNI: 42276509
    Credencial: 8000300510
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 2
    Total de interacciones (consultas+recetas): 2
@@ -596,7 +596,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 75. BILAN ELENA TERESA
    DNI: 13576177
    Credencial: 8000337072
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 2
    Total de interacciones (consultas+recetas): 2
@@ -852,7 +852,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 107. PACHECO PRISCILA ANTONELLA
    DNI: 47618292
    Credencial: 8000358195
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 1
    Total de interacciones (consultas+recetas): 1
@@ -860,7 +860,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 108. FERNANDEZ ARES LIAM
    DNI: 70345278
    Credencial: 8000632673
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 1
    Total de interacciones (consultas+recetas): 1
@@ -868,7 +868,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 109. LOPEZ MARIA ROSA
    DNI: 17189713
    Credencial: 8000068824
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 1
    Total de interacciones (consultas+recetas): 1
@@ -876,7 +876,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 110. DULLKA GUILLERMO ABEL
    DNI: 40035635
    Credencial: 8000628650
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 1
    Total de interacciones (consultas+recetas): 1
@@ -884,7 +884,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 111. KONOWALCZUK BEATRIZ NOEMI
    DNI: 20394102
    Credencial: 8000074938
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 1
    Total de interacciones (consultas+recetas): 1
@@ -892,7 +892,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 112. GIMENEZ CINTIA NATALIA
    DNI: 36970008
    Credencial: 8000543610
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 1
    Total de interacciones (consultas+recetas): 1
@@ -900,7 +900,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 113. SERRANO ANA BEATRIZ
    DNI: 14274687
    Credencial: 8000312179
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 1
    Total de interacciones (consultas+recetas): 1
@@ -908,7 +908,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 114. DOMINGUEZ SONIA VANESA
    DNI: 28489664
    Credencial: 8000327643
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 1
    Total de interacciones (consultas+recetas): 1
@@ -916,7 +916,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 115. MOSIEJCZUK PEDRO EDUARDO
    DNI: 14932807
    Credencial: 8000207860
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 1
    Total de interacciones (consultas+recetas): 1
@@ -924,7 +924,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 116. BERTINO DORA HAIDEE
    DNI: 30580923
    Credencial: 8000466751
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 1
    Total de interacciones (consultas+recetas): 1
@@ -932,7 +932,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 117. KUCEK GLADYS ESTHER
    DNI: 23885989
    Credencial: 8000080939
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 1
    Total de interacciones (consultas+recetas): 1
@@ -940,7 +940,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 118. AYALA, TAMARA ELIZABETH
    DNI: 35686560
    Credencial: 8000605246
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 1
    Total de interacciones (consultas+recetas): 1
@@ -948,7 +948,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 119. SANCHEZ, JESICA PAOLA
    DNI: 36976111
    Credencial: 8000619017
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 1
    Total de interacciones (consultas+recetas): 1
@@ -956,7 +956,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 120. CONTRERAS PETRONA
    DNI: 5962452
    Credencial: 8000017223
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 1
    Total de interacciones (consultas+recetas): 1
@@ -964,7 +964,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 121. KARDASZ SOLEDAD EUNICE
    DNI: 34966508
    Credencial: 8000627494
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 1
    Total de interacciones (consultas+recetas): 1
@@ -972,7 +972,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 122. IVIN ABIGAIL ANAHI
    DNI: 36671554
    Credencial: 8000625348
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 1
    Total de interacciones (consultas+recetas): 1
@@ -980,7 +980,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 123. GEORGEFF JORGE SIMON
    DNI: 12246895
    Credencial: 8000226655
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 1
    Total de interacciones (consultas+recetas): 1
@@ -988,7 +988,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 124. ALVARES ANDREA ALEJANDRA
    DNI: 31149580
    Credencial: 8000468413
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
    Consultas: 0
    Recetas: 1
    Total de interacciones (consultas+recetas): 1
@@ -996,7 +996,7 @@ LISTADO TOTAL DE AFILIADOS CONSULTAS Y RECETAS
 125. 
    DNI: 
    Credencial: 
-   Diagnóstico: 
+   Diagnóstico: J029
    Consultas: 0
    Recetas: 0
    Total de interacciones (consultas+recetas): 0

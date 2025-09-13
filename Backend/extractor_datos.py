@@ -26,6 +26,8 @@ def extraer_datos(texto: str):
         os.makedirs('resultados')
 
     ruta_salida = 'resultados/lista_afiliados_recetas.txt'
+    diagnosticos_default = ['B349', 'J029', 'Z000', 'J129', 'T784']
+    diagnosticos_str = ', '.join(diagnosticos_default)
     with open(ruta_salida, 'w', encoding='utf-8') as f:
         f.write("LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS\n")
         f.write("======================================================\n\n")
@@ -39,7 +41,7 @@ def extraer_datos(texto: str):
             f.write(f"   Obra social: INSSSEP AMB\n")
             f.write(f"   Consultas: 0\n")
             f.write(f"   Recetas: {cantidad}\n")
-            f.write(f"   Diagnóstico: \n")
+            f.write(f"   Diagnóstico: {diagnosticos_str}\n")
             f.write("-" * 50 + "\n")
     print(f"\nArchivo guardado en: {os.path.abspath(ruta_salida)}")
     return len(dnis_ordenados), sum(conteo_recetas.values())
@@ -82,7 +84,9 @@ def extraer_insssep_amb(texto: str):
 def main():
     try:
 
-        archivo_entrada = 'archivo_recetas.txt'
+        base_dir = os.path.dirname(os.path.abspath(__file__))
+        archivo_entrada = os.path.join(base_dir, 'archivo_recetas.txt')
+        print("Archivos en Backend:", os.listdir(base_dir))
         if not os.path.exists(archivo_entrada):
             print(f"Error: No se encontró {archivo_entrada}")
             return

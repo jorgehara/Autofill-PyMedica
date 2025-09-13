@@ -7,7 +7,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 5
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 2. SOTELO SUSANA AIDE
    DNI: 17919349
@@ -15,7 +15,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 4
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 3. JARA JORGE
    DNI: 33824963
@@ -23,7 +23,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 4
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 4. HOLUBEK EVELIN JANET
    DNI: 37938107
@@ -31,7 +31,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 4
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 5. NIKITIUK NATALIA
    DNI: 14137494
@@ -39,7 +39,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 4
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 6. BILAN DE PELLERANO EMILIA
    DNI: 5962459
@@ -47,7 +47,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 4
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 7. VODOPIVEC AMALIA BEATRI
    DNI: 16428747
@@ -55,7 +55,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 4
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 8. ACOSTA MONICA BEATRIZ
    DNI: 22236141
@@ -63,7 +63,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 4
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 9. KRAWIEC ARIELA CARINA
    DNI: 25854742
@@ -71,7 +71,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 3
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 10. SLAVIK JUAN CARLOS
    DNI: 13576116
@@ -79,7 +79,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 3
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 11. SLAVIK MIA NAHIARA
    DNI: 54901414
@@ -87,7 +87,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 3
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 12. MONZON MARIELA VANINA
    DNI: 26826677
@@ -95,7 +95,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 3
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 13. GARCIA NOELI SOLEDAD
    DNI: 36245523
@@ -103,7 +103,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 3
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 14. MENDOZA OSCAR ALBERTO
    DNI: 14274582
@@ -111,7 +111,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 3
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 15. GARIBOGLIO STANGAFERRO CARINA
    DNI: 22730614
@@ -119,7 +119,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 3
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 16. PASICH ANGEL
    DNI: 17760564
@@ -127,7 +127,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 3
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 17. PECOVICH ANDREA ALEJANDRA
    DNI: 23981010
@@ -135,7 +135,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 3
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 18. DIDUCH YANINA MELISA
    DNI: 36976106
@@ -143,7 +143,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 3
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 19. BENITEZ INES VILMA VIVIANA
    DNI: 17495661
@@ -151,7 +151,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 2
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 20. KARDASZ IVANA NOELIA
    DNI: 32664697
@@ -159,7 +159,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 2
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 21. CUR LUCILA MARISA
    DNI: 22749988
@@ -167,7 +167,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 2
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 22. LOPEZ RAMONA MERCEDES
    DNI: 16428744
@@ -175,7 +175,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 2
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 23. VALEFF JESSICA IVANA
    DNI: 33615155
@@ -183,7 +183,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 2
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 24. NAGORNY ALBA IRIS
    DNI: 28340455
@@ -191,7 +191,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 2
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 25. ROMERO NILDA MARCELA
    DNI: 25379924
@@ -199,7 +199,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 2
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 26. ALTAMIRANO PAULA IVANA
    DNI: 29057852
@@ -207,7 +207,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 2
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 27. KOTELCZUK OLGA
    DNI: 10990353
@@ -215,7 +215,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 2
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 28. PUJOL FERNANDEZ LAUTARO JAVIER
    DNI: 48730093
@@ -223,7 +223,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 2
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 29. ASSL GLADYS BEATRIZ
    DNI: 29057937
@@ -231,7 +231,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 2
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 30. IWAÑSKY EMILIA
    DNI: 13257500
@@ -239,7 +239,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 2
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 31. ESPARZA VIDAL LUIS MARIA
    DNI: 10174882
@@ -247,7 +247,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 2
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 32. VERON MARIELA INES
    DNI: 32061831
@@ -255,7 +255,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 2
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 33. GIMENEZ ROBERTO OSCAR
    DNI: 11249647
@@ -263,7 +263,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 2
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 34. ALTAMIRANO ZUNILDA LIDIA
    DNI: 13725316
@@ -271,7 +271,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 2
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 35. PAWLUK FRANCO ROCIO SOLEDAD
    DNI: 37938219
@@ -279,7 +279,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 2
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 36. DECCA LORENA PATRICIA
    DNI: 26929906
@@ -287,7 +287,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 2
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 37. FANDRICH CARMEN CECILIA
    DNI: 34966525
@@ -295,7 +295,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 2
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 38. CORDOBA FABIANA DEL CARMEN
    DNI: 17919410
@@ -303,7 +303,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 2
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 39. SOSA CRISTINA CEFERINA
    DNI: 22236114
@@ -311,7 +311,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 2
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 40. IVANOFF STOINOVSKY PEDRO
    DNI: 16945583
@@ -319,7 +319,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 2
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 41. KAVGIC CLARA INES
    DNI: 42276509
@@ -327,7 +327,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 2
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 42. BILAN ELENA TERESA
    DNI: 13576177
@@ -335,7 +335,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 2
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 43. PACHECO PRISCILA ANTONELLA
    DNI: 47618292
@@ -343,7 +343,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 44. FERNANDEZ ARES LIAM
    DNI: 70345278
@@ -351,7 +351,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 45. LOPEZ MARIA ROSA
    DNI: 17189713
@@ -359,7 +359,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 46. DULLKA GUILLERMO ABEL
    DNI: 40035635
@@ -367,7 +367,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 47. VERON GERMAN DAVID
    DNI: 29220091
@@ -375,7 +375,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 48. KONOWALCZUK BEATRIZ NOEMI
    DNI: 20394102
@@ -383,7 +383,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 49. FERNANDEZ SANDRA ISABEL
    DNI: 28340633
@@ -391,7 +391,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 50. RAMIREZ CAROLINA ELIZABETH
    DNI: 27025637
@@ -399,7 +399,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 51. FUS RICARDO MARCELO JOSE
    DNI: 23218576
@@ -407,7 +407,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 52. LANDRIEL NICOLAS GABRIEL
    DNI: 45046947
@@ -415,7 +415,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 53. GIMENEZ CINTIA NATALIA
    DNI: 36970008
@@ -423,7 +423,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 54. BLANCO ANDREA CRISTINA
    DNI: 28396191
@@ -431,7 +431,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 55. SCHAFFINO SILVINA SOLEDAD
    DNI: 29826863
@@ -439,7 +439,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 56. LANDRIEL CANO CARINA ESTER
    DNI: 25427141
@@ -447,7 +447,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 57. SERRANO ANA BEATRIZ
    DNI: 14274687
@@ -455,7 +455,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 58. DOMINGUEZ SONIA VANESA
    DNI: 28489664
@@ -463,7 +463,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 59. MOSIEJCZUK PEDRO EDUARDO
    DNI: 14932807
@@ -471,7 +471,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 60. BERTINO DORA HAIDEE
    DNI: 30580923
@@ -479,7 +479,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 61. TOLOZA MELINA ANAHI
    DNI: 42068239
@@ -487,7 +487,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 62. FERNANDEZ FEDERICO JESUS
    DNI: 37938383
@@ -495,7 +495,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 63. KUCEK GLADYS ESTHER
    DNI: 23885989
@@ -503,7 +503,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 64. AYALA, TAMARA ELIZABETH
    DNI: 35686560
@@ -511,7 +511,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 65. SANCHEZ, JESICA PAOLA
    DNI: 36976111
@@ -519,7 +519,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 66. YBAÑEZ AGUSTIN FABIAN
    DNI: 44469865
@@ -527,7 +527,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 67. BALUK ERIKA LUCIANA
    DNI: 38383763
@@ -535,7 +535,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 68. GALIANO VANESA DEL CARMEN
    DNI: 30580937
@@ -543,7 +543,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 69. CONTRERAS PETRONA
    DNI: 5962452
@@ -551,7 +551,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 70. KARDASZ SOLEDAD EUNICE
    DNI: 34966508
@@ -559,7 +559,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 71. IVIN ABIGAIL ANAHI
    DNI: 36671554
@@ -567,7 +567,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 72. LOPEZ DE ENCINA GLADYS MABEL
    DNI: 23981023
@@ -575,7 +575,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 73. GEORGEFF JORGE SIMON
    DNI: 12246895
@@ -583,7 +583,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
 74. ALVARES ANDREA ALEJANDRA
    DNI: 31149580
@@ -591,5 +591,5 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
-   Diagnóstico: 
+   Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
