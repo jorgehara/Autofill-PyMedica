@@ -1,7 +1,15 @@
 LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
 ==========================================================
 
-1. KRAWIEC ARIELA CARINA
+1. 25813464 BENITEZ EMILSE CAROLINA
+   DNI: 25813464
+   Credencial: , 27258134643
+   Obra social: INSSSEP AMB
+   Consultas: 5
+   Recetas: 0
+   Diagnóstico: B349, I119, J040
+--------------------------------------------------
+2. 25854742 KRAWIEC ARIELA CARINA
    DNI: 25854742
    Credencial: 27258547425
    Obra social: INSSSEP AMB
@@ -9,7 +17,31 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349, Z000
 --------------------------------------------------
-2. GONZALEZ MARIANELA SOLEDAD
+3. 31514979 RAMIREZ CARLA DANIELA
+   DNI: 31514979
+   Credencial: 
+   Obra social: INSSSEP AMB
+   Consultas: 4
+   Recetas: 0
+   Diagnóstico: B349
+--------------------------------------------------
+4. 36976073 DICKAU ERIC DAVID
+   DNI: 36976073
+   Credencial: 
+   Obra social: INSSSEP AMB
+   Consultas: 4
+   Recetas: 0
+   Diagnóstico: K299, Z488
+--------------------------------------------------
+5. 32935277 MITROVIC NORBERTO CECILIO
+   DNI: 32935277
+   Credencial: 
+   Obra social: INSSSEP AMB
+   Consultas: 4
+   Recetas: 0
+   Diagnóstico: J029, J040
+--------------------------------------------------
+6. 32511449 GONZALEZ MARIANELA SOLEDAD
    DNI: 32511449
    Credencial: 27325114490
    Obra social: INSSSEP AMB
@@ -17,15 +49,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349, J009
 --------------------------------------------------
-3. BENITEZ EMILSE CAROLINA
-   DNI: 25813464
-   Credencial: 27258134643
-   Obra social: INSSSEP AMB
-   Consultas: 3
-   Recetas: 0
-   Diagnóstico: B349, I119
---------------------------------------------------
-4. KARDASZ ORNELLA LILIANA
+7. 36976060 KARDASZ ORNELLA LILIANA
    DNI: 36976060
    Credencial: 27369760608
    Obra social: INSSSEP AMB
@@ -33,7 +57,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: M624
 --------------------------------------------------
-5. GAN MELANI DESIREE
+8. 38503705 GAN MELANI DESIREE
    DNI: 38503705
    Credencial: 27385037053
    Obra social: INSSSEP AMB
@@ -41,7 +65,23 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349, J009
 --------------------------------------------------
-6. BERTINO DANIEL ALCIDES
+9. 25643923 SOSA GRACIELA ISABEL
+   DNI: 25643923
+   Credencial: 
+   Obra social: INSSSEP AMB
+   Consultas: 3
+   Recetas: 0
+   Diagnóstico: B349
+--------------------------------------------------
+10. 39552579 SORIA XIMENA AYELEN
+   DNI: 39552579
+   Credencial: 
+   Obra social: INSSSEP AMB
+   Consultas: 3
+   Recetas: 0
+   Diagnóstico: J029, Z000
+--------------------------------------------------
+11. 27706549 BERTINO DANIEL ALCIDES
    DNI: 27706549
    Credencial: 20277065496
    Obra social: INSSSEP AMB
@@ -49,7 +89,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-7. KRAWIEC YANINA EVELIN
+12. 28340627 KRAWIEC YANINA EVELIN
    DNI: 28340627
    Credencial: 27283406275
    Obra social: INSSSEP AMB
@@ -57,7 +97,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349, I119
 --------------------------------------------------
-8. MUÑOZ OMAR ARIEL
+13. 34040769 MUÑOZ OMAR ARIEL
    DNI: 34040769
    Credencial: 20340407696
    Obra social: INSSSEP AMB
@@ -65,7 +105,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-9. TOLOZA MELINA ANAHI
+14. 42068239 TOLOZA MELINA ANAHI
    DNI: 42068239
    Credencial: 27420682390
    Obra social: INSSSEP AMB
@@ -73,7 +113,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: J009
 --------------------------------------------------
-10. FERNANDEZ FEDERICO JESUS
+15. 37938383 FERNANDEZ FEDERICO JESUS
    DNI: 37938383
    Credencial: 20379383832
    Obra social: INSSSEP AMB
@@ -81,7 +121,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: J009
 --------------------------------------------------
-11. FERNANDEZ SANDRA ISABEL
+16. 28340633 FERNANDEZ SANDRA ISABEL
    DNI: 28340633
    Credencial: 23283406334
    Obra social: INSSSEP AMB
@@ -89,7 +129,31 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: J009, Z000
 --------------------------------------------------
-12. RADLOVACKI ESTELA ALICIA
+17. 29057852 ALTAMIRANO PAULA IVANA
+   DNI: 29057852
+   Credencial: , 27290578529
+   Obra social: INSSSEP AMB
+   Consultas: 2
+   Recetas: 0
+   Diagnóstico: A099, J009
+--------------------------------------------------
+18. 48730093 PUJOL FERNANDEZ LAUTARO JAVIER
+   DNI: 48730093
+   Credencial: 
+   Obra social: INSSSEP AMB
+   Consultas: 2
+   Recetas: 0
+   Diagnóstico: B349, Z000
+--------------------------------------------------
+19. 34966484 BORSUK LAURA LEONELA
+   DNI: 34966484
+   Credencial: 23349664844
+   Obra social: INSSSEP AMB
+   Consultas: 2
+   Recetas: 0
+   Diagnóstico: I119, J009
+--------------------------------------------------
+20. 22343363 RADLOVACKI ESTELA ALICIA
    DNI: 22343363
    Credencial: 23223433634
    Obra social: INSSSEP AMB
@@ -97,7 +161,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: J009
 --------------------------------------------------
-13. GIMENEZ EDRIS JUAN DAVID
+21. 49011848 GIMENEZ EDRIS JUAN DAVID
    DNI: 49011848
    Credencial: 23490118489
    Obra social: INSSSEP AMB
@@ -105,7 +169,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-14. SOSA CRISTINA CEFERINA
+22. 22236114 SOSA CRISTINA CEFERINA
    DNI: 22236114
    Credencial: 27222361147
    Obra social: INSSSEP AMB
@@ -113,7 +177,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: J129
 --------------------------------------------------
-15. SLAVIK MIA NAHIARA
+23. 54901414 SLAVIK MIA NAHIARA
    DNI: 54901414
    Credencial: 27549014149
    Obra social: INSSSEP AMB
@@ -121,7 +185,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349, J040
 --------------------------------------------------
-16. MUÑOZ BENICCIO MATTEO
+24. 56327714 MUÑOZ BENICCIO MATTEO
    DNI: 56327714
    Credencial: 23563277149
    Obra social: INSSSEP AMB
@@ -129,7 +193,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349, J009
 --------------------------------------------------
-17. VARGA DIANA PAOLA
+25. 28625269 VARGA DIANA PAOLA
    DNI: 28625269
    Credencial: 27286252694
    Obra social: INSSSEP AMB
@@ -137,7 +201,23 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: A099, B349
 --------------------------------------------------
-18. SCHLEGEL YANINA JOHANA
+26. 26307366 SOTELO PABLO TEOFILO
+   DNI: 26307366
+   Credencial: , 20263073666
+   Obra social: INSSSEP AMB
+   Consultas: 2
+   Recetas: 0
+   Diagnóstico: B349, J040
+--------------------------------------------------
+27. 29057937 ASSL GLADYS BEATRIZ
+   DNI: 29057937
+   Credencial: 
+   Obra social: INSSSEP AMB
+   Consultas: 2
+   Recetas: 0
+   Diagnóstico: B349
+--------------------------------------------------
+28. 33038670 SCHLEGEL YANINA JOHANA
    DNI: 33038670
    Credencial: 27330386709
    Obra social: INSSSEP AMB
@@ -145,7 +225,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349, N300
 --------------------------------------------------
-19. TISERA ALMA SAMIRA AYLEN
+29. 44946152 TISERA ALMA SAMIRA AYLEN
    DNI: 44946152
    Credencial: 27449461520
    Obra social: INSSSEP AMB
@@ -153,7 +233,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-20. SOSA MARIA VICTORIA
+30. 37938125 SOSA MARIA VICTORIA
    DNI: 37938125
    Credencial: 27379381257
    Obra social: INSSSEP AMB
@@ -161,7 +241,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-21. MONTES NOELIA ALEJANDRA
+31. 33651545 MONTES NOELIA ALEJANDRA
    DNI: 33651545
    Credencial: 27336515454
    Obra social: INSSSEP AMB
@@ -169,7 +249,15 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: A099
 --------------------------------------------------
-22. MITROVIC FIORELLA ABIGAIL
+32. 27410720 CENTURION SILVANA ANDREA
+   DNI: 27410720
+   Credencial: 
+   Obra social: INSSSEP AMB
+   Consultas: 2
+   Recetas: 0
+   Diagnóstico: J040
+--------------------------------------------------
+33. 54178162 MITROVIC FIORELLA ABIGAIL
    DNI: 54178162
    Credencial: 27541781620
    Obra social: INSSSEP AMB
@@ -177,7 +265,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: J040
 --------------------------------------------------
-23. AGUILAR FIAMA ANTONELLA
+34. 37762102 AGUILAR FIAMA ANTONELLA
    DNI: 37762102
    Credencial: 27377621021
    Obra social: INSSSEP AMB
@@ -185,7 +273,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: J009
 --------------------------------------------------
-24. PAWLUK PABLO
+35. 7806095 PAWLUK PABLO
    DNI: 7806095
    Credencial: 20078060957
    Obra social: INSSSEP AMB
@@ -193,7 +281,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-25. MUSTAFAS ANDREA MAGDALENA
+36. 40031719 MUSTAFAS ANDREA MAGDALENA
    DNI: 40031719
    Credencial: 23400317194
    Obra social: INSSSEP AMB
@@ -201,7 +289,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-26. BENITEZ INES VILMA VIVIANA
+37. 17495661 BENITEZ INES VILMA VIVIANA
    DNI: 17495661
    Credencial: 27174956613
    Obra social: INSSSEP AMB
@@ -209,7 +297,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: J009
 --------------------------------------------------
-27. DALKE IRMA ELENA
+38. 18199339 DALKE IRMA ELENA
    DNI: 18199339
    Credencial: 27181993397
    Obra social: INSSSEP AMB
@@ -217,7 +305,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-28. BARBOZA SANDRA CAROLINA
+39. 24597031 BARBOZA SANDRA CAROLINA
    DNI: 24597031
    Credencial: 27245970310
    Obra social: INSSSEP AMB
@@ -225,7 +313,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-29. DIAZ MARISEL ANAHI
+40. 41039456 DIAZ MARISEL ANAHI
    DNI: 41039456
    Credencial: 27410394567
    Obra social: INSSSEP AMB
@@ -233,7 +321,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-30. ROMERO NILDA MARCELA
+41. 25379924 ROMERO NILDA MARCELA
    DNI: 25379924
    Credencial: 27253799248
    Obra social: INSSSEP AMB
@@ -241,7 +329,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: N300
 --------------------------------------------------
-31. VERON GERMAN DAVID
+42. 29220091 VERON GERMAN DAVID
    DNI: 29220091
    Credencial: 23292200919
    Obra social: INSSSEP AMB
@@ -249,15 +337,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-32. ALTAMIRANO PAULA IVANA
-   DNI: 29057852
-   Credencial: 27290578529
-   Obra social: INSSSEP AMB
-   Consultas: 1
-   Recetas: 0
-   Diagnóstico: J009
---------------------------------------------------
-33. KOTELCZUK OLGA
+43. 10990353 KOTELCZUK OLGA
    DNI: 10990353
    Credencial: 27109903537
    Obra social: INSSSEP AMB
@@ -265,7 +345,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: I119
 --------------------------------------------------
-34. MONTES LUCIANA MARISEL
+44. 36671286 MONTES LUCIANA MARISEL
    DNI: 36671286
    Credencial: 27366712866
    Obra social: INSSSEP AMB
@@ -273,15 +353,15 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-35. 34966484
-   DNI: Titular
-   Credencial: 34966484
+45. 30188845 GERGOFF MILOFF ROSA ALEJANDRA
+   DNI: 30188845
+   Credencial: 
    Obra social: INSSSEP AMB
    Consultas: 1
    Recetas: 0
-   Diagnóstico: J009
+   Diagnóstico: B349
 --------------------------------------------------
-36. MANSILLA ANIBAL NESTOR
+46. 29220122 MANSILLA ANIBAL NESTOR
    DNI: 29220122
    Credencial: 20292201223
    Obra social: INSSSEP AMB
@@ -289,7 +369,15 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-37. BUSTAMANTE MARISA ISABEL
+47. 45101678 GIMENEZ ANNERIS BELKIS AYLEN
+   DNI: 45101678
+   Credencial: 
+   Obra social: INSSSEP AMB
+   Consultas: 1
+   Recetas: 0
+   Diagnóstico: J009
+--------------------------------------------------
+48. 20276614 BUSTAMANTE MARISA ISABEL
    DNI: 20276614
    Credencial: 27202766140
    Obra social: INSSSEP AMB
@@ -297,15 +385,15 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-38. LANDRIEL NICOLAS GABRIEL
+49. 45046947 LANDRIEL NICOLAS GABRIEL
    DNI: 45046947
    Credencial: 20450469476
    Obra social: INSSSEP AMB
    Consultas: 1
    Recetas: 0
-   Diagnóstico: J009
+   Diagnóstico: M765
 --------------------------------------------------
-39. IWAÑSKY EMILIA
+50. 13257500 IWAÑSKY EMILIA
    DNI: 13257500
    Credencial: 27132575008
    Obra social: INSSSEP AMB
@@ -313,7 +401,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-40. BLANCO ANDREA CRISTINA
+51. 28396191 BLANCO ANDREA CRISTINA
    DNI: 28396191
    Credencial: 2728396191
    Obra social: INSSSEP AMB
@@ -321,7 +409,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-41. SCHAFFINO SILVINA SOLEDAD
+52. 29826863 SCHAFFINO SILVINA SOLEDAD
    DNI: 29826863
    Credencial: 27298268634
    Obra social: INSSSEP AMB
@@ -329,7 +417,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: J009
 --------------------------------------------------
-42. LANDRIEL CANO CARINA ESTER
+53. 25427141 LANDRIEL CANO CARINA ESTER
    DNI: 25427141
    Credencial: 27254271417
    Obra social: INSSSEP AMB
@@ -337,7 +425,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-43. BILAN DE PELLERANO EMILIA
+54. 5962459 BILAN DE PELLERANO EMILIA
    DNI: 5962459
    Credencial: 27059624593
    Obra social: INSSSEP AMB
@@ -345,7 +433,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: I119
 --------------------------------------------------
-44. GARCIA ADRIANA CAROLINA
+55. 29706496 GARCIA ADRIANA CAROLINA
    DNI: 29706496
    Credencial: 27297064966
    Obra social: INSSSEP AMB
@@ -353,7 +441,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-45. QUINTANA GARCIA JOSEFINA
+56. 50859231 QUINTANA GARCIA JOSEFINA
    DNI: 50859231
    Credencial: 27508592316
    Obra social: INSSSEP AMB
@@ -361,7 +449,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-46. GALIANO VANESA DEL CARMEN
+57. 30580937 GALIANO VANESA DEL CARMEN
    DNI: 30580937
    Credencial: 27305809379
    Obra social: INSSSEP AMB
@@ -369,7 +457,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: I119
 --------------------------------------------------
-47. FUS RICARDO MARCELO JOSE
+58. 23218576 FUS RICARDO MARCELO JOSE
    DNI: 23218576
    Credencial: 20232185768
    Obra social: INSSSEP AMB
@@ -377,7 +465,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: A099
 --------------------------------------------------
-48. FERNANDEZ DE BENITEZ PURA
+59. 5405750 FERNANDEZ DE BENITEZ PURA
    DNI: 5405750
    Credencial: 23054057504
    Obra social: INSSSEP AMB
@@ -385,7 +473,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-49. AYALA VERON KIHARA NARELA
+60. 51029902 AYALA VERON KIHARA NARELA
    DNI: 51029902
    Credencial: 27510299022
    Obra social: INSSSEP AMB
@@ -393,7 +481,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-50. INSAURRALDE MAYRA MARIA JOSE
+61. 32061712 INSAURRALDE MAYRA MARIA JOSE
    DNI: 32061712
    Credencial: 27320617125
    Obra social: INSSSEP AMB
@@ -401,7 +489,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-51. SAUCEDO YESICA ANABEL
+62. 37938205 SAUCEDO YESICA ANABEL
    DNI: 37938205
    Credencial: 27379382059
    Obra social: INSSSEP AMB
@@ -409,15 +497,15 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: J040
 --------------------------------------------------
-52. SANCHEZ
-   DNI: Titular
+63. 36976111 SANCHEZ
+   DNI: 36976111
    Credencial: 36976111
    Obra social: INSSSEP AMB
    Consultas: 1
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-53. YBAÑEZ AGUSTIN FABIAN
+64. 44469865 YBAÑEZ AGUSTIN FABIAN
    DNI: 44469865
    Credencial: 23444698659
    Obra social: INSSSEP AMB
@@ -425,7 +513,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: J009
 --------------------------------------------------
-54. BALUK ERIKA LUCIANA
+65. 38383763 BALUK ERIKA LUCIANA
    DNI: 38383763
    Credencial: 23383837634
    Obra social: INSSSEP AMB
@@ -433,7 +521,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: J040
 --------------------------------------------------
-55. MARTIN MORO MARIA ALEJANDRA
+66. 34458439 MARTIN MORO MARIA ALEJANDRA
    DNI: 34458439
    Credencial: 24344584393
    Obra social: INSSSEP AMB
@@ -441,15 +529,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-56. SOTELO PABLO TEOFILO
-   DNI: 26307366
-   Credencial: 20263073666
-   Obra social: INSSSEP AMB
-   Consultas: 1
-   Recetas: 0
-   Diagnóstico: J040
---------------------------------------------------
-57. VEGA VERONICA JESUS
+67. 31613160 VEGA VERONICA JESUS
    DNI: 31613160
    Credencial: 27316131609
    Obra social: INSSSEP AMB
@@ -457,7 +537,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: N944
 --------------------------------------------------
-58. PAWLUK FRANCO ROCIO SOLEDAD
+68. 37938219 PAWLUK FRANCO ROCIO SOLEDAD
    DNI: 37938219
    Credencial: 27379382199
    Obra social: INSSSEP AMB
@@ -465,7 +545,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-59. DECCA LORENA PATRICIA
+69. 26929906 DECCA LORENA PATRICIA
    DNI: 26929906
    Credencial: 27269299067
    Obra social: INSSSEP AMB
@@ -473,7 +553,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-60. FANDRICH CARMEN CECILIA
+70. 34966525 FANDRICH CARMEN CECILIA
    DNI: 34966525
    Credencial: 27349665250
    Obra social: INSSSEP AMB
@@ -481,7 +561,15 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-61. LOPEZ DE ENCINA GLADYS MABEL
+71. 28340455 NAGORNY ALBA IRIS
+   DNI: 28340455
+   Credencial: 
+   Obra social: INSSSEP AMB
+   Consultas: 1
+   Recetas: 0
+   Diagnóstico: Z000
+--------------------------------------------------
+72. 23981023 LOPEZ DE ENCINA GLADYS MABEL
    DNI: 23981023
    Credencial: 27239810239
    Obra social: INSSSEP AMB
@@ -489,7 +577,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: J009
 --------------------------------------------------
-62. LANDRIEL MERCEDES DEL CARMEN
+73. 5962424 LANDRIEL MERCEDES DEL CARMEN
    DNI: 5962424
    Credencial: 27059624240
    Obra social: INSSSEP AMB
@@ -497,7 +585,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: N300
 --------------------------------------------------
-63. ROI GISELA MARILIN
+74. 35688600 ROI GISELA MARILIN
    DNI: 35688600
    Credencial: 27356886009
    Obra social: INSSSEP AMB
@@ -505,7 +593,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: J029
 --------------------------------------------------
-64. RAMIREZ CAROLINA ELIZABETH
+75. 27025637 RAMIREZ CAROLINA ELIZABETH
    DNI: 27025637
    Credencial: 27270256371
    Obra social: INSSSEP AMB
@@ -513,7 +601,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-65. BERTINO DIDIER FACUNDO
+76. 53022036 BERTINO DIDIER FACUNDO
    DNI: 53022036
    Credencial: 20530220363
    Obra social: INSSSEP AMB
@@ -521,7 +609,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-66. IVANOFF STOINOVSKY PEDRO
+77. 16945583 IVANOFF STOINOVSKY PEDRO
    DNI: 16945583
    Credencial: 20169455830
    Obra social: INSSSEP AMB
@@ -529,7 +617,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: E568
 --------------------------------------------------
-67. LOBATO CLAUDIO DANIELO
+78. 21546254 LOBATO CLAUDIO DANIELO
    DNI: 21546254
    Credencial: 20215462545
    Obra social: INSSSEP AMB
@@ -537,7 +625,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: J009
 --------------------------------------------------
-68. DIDUCH YANINA MELISA
+79. 36976106 DIDUCH YANINA MELISA
    DNI: 36976106
    Credencial: 24369761
    Obra social: INSSSEP AMB
@@ -545,7 +633,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: J040
 --------------------------------------------------
-69. NIKITIUK NATALIA
+80. 14137494 NIKITIUK NATALIA
    DNI: 14137494
    Credencial: 27141374945
    Obra social: INSSSEP AMB
@@ -553,7 +641,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: J009
 --------------------------------------------------
-70. CABAÑA ANDREA SOLEDAD
+81. 33615019 CABAÑA ANDREA SOLEDAD
    DNI: 33615019
    Credencial: 27336150197
    Obra social: INSSSEP AMB
@@ -561,7 +649,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-71. PILIPCZUK DANIEL ERNESTO
+82. 32061881 PILIPCZUK DANIEL ERNESTO
    DNI: 32061881
    Credencial: 23320618819
    Obra social: INSSSEP AMB
@@ -569,7 +657,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-72. VICENTIN MONICA BIBIANA
+83. 21859364 VICENTIN MONICA BIBIANA
    DNI: 21859364
    Credencial: 27218593645
    Obra social: INSSSEP AMB
@@ -577,7 +665,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-73. SANCHEZ FERNANDEZ VALENTINA
+84. 50921178 SANCHEZ FERNANDEZ VALENTINA
    DNI: 50921178
    Credencial: 27509211782
    Obra social: INSSSEP AMB
@@ -585,7 +673,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: Z000
 --------------------------------------------------
-74. SZKAMARDA DANIELA ELIZABETH
+85. 38383722 SZKAMARDA DANIELA ELIZABETH
    DNI: 38383722
    Credencial: 27383837222
    Obra social: INSSSEP AMB
@@ -593,7 +681,23 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: J009
 --------------------------------------------------
-75. ALMADA MARIA INES
+86. 28666041 SILVA CLARISA RAQUEL ITATI
+   DNI: 28666041
+   Credencial: 27286660415
+   Obra social: INSSSEP AMB
+   Consultas: 1
+   Recetas: 0
+   Diagnóstico: J040
+--------------------------------------------------
+87. 32106024 SENA ANA LORENA MAGALI
+   DNI: 32106024
+   Credencial: 27321060248
+   Obra social: INSSSEP AMB
+   Consultas: 1
+   Recetas: 0
+   Diagnóstico: B349
+--------------------------------------------------
+88. 34040940 ALMADA MARIA INES
    DNI: 34040940
    Credencial: 27340409405
    Obra social: INSSSEP AMB
@@ -601,7 +705,7 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: B349
 --------------------------------------------------
-76. VALEFF JESSICA IVANA
+89. 33615155 VALEFF JESSICA IVANA
    DNI: 33615155
    Credencial: 23336151554
    Obra social: INSSSEP AMB
@@ -609,31 +713,39 @@ LISTADO DE AFILIADOS (FORMATO TABULAR) Y CONSULTAS
    Recetas: 0
    Diagnóstico: J009
 --------------------------------------------------
-77. VODOPIVEC
-   DNI: Titular
+90. 39776501 VODOPIVEC
+   DNI: 39776501
    Credencial: 39776501
    Obra social: INSSSEP AMB
    Consultas: 1
    Recetas: 0
    Diagnóstico: J029
 --------------------------------------------------
-78. 33377023 LUDUEÑA
-   DNI: Hijo menor
+91. 25528345 23218549 SKORSKI MARIELA ALEJANDRA
+   DNI: 25528345
+   Credencial: 
+   Obra social: INSSSEP AMB
+   Consultas: 1
+   Recetas: 0
+   Diagnóstico: B349
+--------------------------------------------------
+92. 27025637 BERTINO NAHIARA CAMILA
+   DNI: 27025637
+   Credencial: 
+   Obra social: INSSSEP AMB
+   Consultas: 1
+   Recetas: 0
+   Diagnóstico: N300
+--------------------------------------------------
+93. 33377023 LUDUEÑA
+   DNI: 33377023
    Credencial: 58533435
    Obra social: INSSSEP AMB
    Consultas: 1
    Recetas: 0
    Diagnóstico: J029
 --------------------------------------------------
-79. BORSUK LAURA LEONELA
-   DNI: 34966484
-   Credencial: 23349664844
-   Obra social: INSSSEP AMB
-   Consultas: 1
-   Recetas: 0
-   Diagnóstico: I119
---------------------------------------------------
-80. MARTINEZ MAURO SEBASTIAN
+94. 34567137 MARTINEZ MAURO SEBASTIAN
    DNI: 34567137
    Credencial: 20345671375
    Obra social: INSSSEP AMB

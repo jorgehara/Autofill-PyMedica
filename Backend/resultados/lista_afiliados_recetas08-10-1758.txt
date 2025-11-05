@@ -1,407 +1,226 @@
 LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
 ======================================================
 
-1. NOVIK NILDA
-   DNI: 4941385
-   Credencial: 8000012214
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 7
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-2. GARCIA EVA JAZMIN
-   DNI: 53104839
-   Credencial: 8000582174
+1. ACOSTA AMALIA INES
+   DNI: 22966167
+   Credencial: 8000581893
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 6
    Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
-3. BILAN DE PELLERANO EMILIA
-   DNI: 5962459
-   Credencial: 8000016602
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 5
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-4. LEGUIZA FRIDA AMALIA
-   DNI: 27435225
-   Credencial: 8000635735
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 5
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-5. KURKAZ OLGA ELVIRA
-   DNI: 10569041
-   Credencial: 8000039789
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 5
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-6. SIRICH JULIO OSCAR
-   DNI: 14220012
-   Credencial: 8000058174
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 4
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-7. GIMENEZ ROBERTO OSCAR
-   DNI: 11249647
-   Credencial: 8000044021
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 4
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-8. GARCIA NOELI SOLEDAD
-   DNI: 36245523
-   Credencial: 8000542962
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 4
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-9. KOBLUK SAMUEL EMILIO
-   DNI: 17037705
-   Credencial: 8000576655
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 4
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-10. BORSUK LAURA LEONELA
-   DNI: 34966484
-   Credencial: 8000603872
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 3
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-11. RAMOS MEZA DAVID MISAEL
-   DNI: 56585160
-   Credencial: 8000542756
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 3
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-12. NIKITIUK NATALIA
+2. NIKITIUK NATALIA
    DNI: 14137494
    Credencial: 8000468150
    Obra social: INSSSEP AMB
    Consultas: 0
-   Recetas: 3
+   Recetas: 4
    Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
-13. ABDULA KARDASZ MISAEL
-   DNI: 70395629
-   Credencial: 8000636962
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 3
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-14. GODOY KARIN VANESA
-   DNI: 26526250
-   Credencial: 8000319736
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 3
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-15. BALUK FRANCIS GERMAN
-   DNI: 36326928
-   Credencial: 8000626784
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 3
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-16. IVANFF STOINOVSKY JUAN PABLO
-   DNI: 39180234
-   Credencial: 8000577281
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 3
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-17. BILAN MARIA
-   DNI: 5451499
-   Credencial: 8000358638
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 3
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-18. ALMIRON HECTOR ANIBAL
-   DNI: 20093337
-   Credencial: 8000419217
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 3
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-19. JARA KARDASZ MICAL
-   DNI: 59848842
-   Credencial: 8000620048
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 3
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-20. MANSILLA ARGENTINO EUGENIO
-   DNI: 20276555
-   Credencial: 8000585031
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 2
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-21. BILAN ELENA TERESA
+3. BILAN ELENA TERESA
    DNI: 13576177
    Credencial: 8000337072
    Obra social: INSSSEP AMB
    Consultas: 0
-   Recetas: 2
+   Recetas: 4
    Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
-22. GRISMADO NORBERTO JAVIER
-   DNI: 32266230
-   Credencial: 8000616129
+4. PASICH ANGEL
+   DNI: 17760564
+   Credencial: 8000350081
    Obra social: INSSSEP AMB
    Consultas: 0
-   Recetas: 2
+   Recetas: 4
    Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
-23. RACHMANKO NORMA GLADIS
-   DNI: 20276647
-   Credencial: 8000084807
+5. PECOVICH ANDREA ALEJANDRA
+   DNI: 23981010
+   Credencial: 8000088334
    Obra social: INSSSEP AMB
    Consultas: 0
-   Recetas: 2
+   Recetas: 4
    Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
-24. GAWRYLUK TERESA MABEL
-   DNI: 16945564
-   Credencial: 8000358447
+6. KURKAZ OLGA ELVIRA
+   DNI: 10569041
+   Credencial: 8000039789
    Obra social: INSSSEP AMB
    Consultas: 0
-   Recetas: 2
+   Recetas: 3
    Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
-25. ESPARZA KRAWIEC IVO GASTON
-   DNI: 43616070
-   Credencial: 8000510706
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 2
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-26. AYALA, TAMARA ELIZABETH
-   DNI: 35686560
-   Credencial: 8000605246
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 2
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-27. ALEGRE JOSE LUIS
-   DNI: 17322587
-   Credencial: 8000068659
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 2
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-28. MOSIEJCZUK PEDRO EDUARDO
-   DNI: 14932807
-   Credencial: 8000207860
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 2
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-29. DEL CAMPO CRISTIAN MARCELO
-   DNI: 28340462
-   Credencial: 8000549786
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 2
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-30. SOTELO SUSANA AIDE
-   DNI: 17919349
-   Credencial: 8000071505
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 2
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-31. SOSA ZULMA ADELINA
-   DNI: 6229983
-   Credencial: 8000185428
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 2
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-32. KAVGIC ALDANA BELEN
-   DNI: 39180340
-   Credencial: 8000604276
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 2
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-33. LANDRIEL RAUL OSCAR
+7. LANDRIEL RAUL OSCAR
    DNI: 14274679
    Credencial: 8000058878
    Obra social: INSSSEP AMB
    Consultas: 0
-   Recetas: 2
+   Recetas: 3
    Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
-34. MENDOZA HECTOR RAUL
-   DNI: 16945545
-   Credencial: 8000214561
+8. KARACSANY CLAUDIA LORENA
+   DNI: 30580858
+   Credencial: 8000337546
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 3
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+9. ALTAMIRANO ZUNILDA LIDIA
+   DNI: 13725316
+   Credencial: 8000325240
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 3
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+
+
+
+
+
+10. NOVIK NILDA
+   DNI: 4941385
+   Credencial: 8000012214
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 3
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+11. BILAN DE PELLERANO EMILIA
+   DNI: 5962459
+   Credencial: 8000016602
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 3
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+12. DOMINGUEZ SONIA VANESA
+   DNI: 28489664
+   Credencial: 8000327643
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 2
    Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
-35. GALIANO VANESA DEL CARMEN
-   DNI: 30580937
-   Credencial: 8000576416
+13. KARDASZ IVANA NOELIA
+   DNI: 32664697
+   Credencial: 8000553453
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 2
    Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
-36. BUSTAMANTE MARISA ISABEL
-   DNI: 20276614
-   Credencial: 8000468410
+14. GIMENEZ CINTIA NATALIA
+   DNI: 36970008
+   Credencial: 8000543610
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 2
    Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
-37. VICENTIN MONICA BIBIANA
-   DNI: 21859364
-   Credencial: 8000085240
+
+
+
+
+
+
+15. INSAURRALDE MAYRA MARIA JOSE
+   DNI: 32061712
+   Credencial: 8000454656
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 2
    Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
-38. MASALYKA LILIANA ELIZABETH
-   DNI: 14703662
-   Credencial: 8000061059
+16. BILAN ALICIA
+   DNI: 12680112
+   Credencial: 8000051205
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 2
    Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
-39. CUR LUCILA MARISA
-   DNI: 22749988
-   Credencial: 8000425140
+17. BORSUK LAURA LEONELA
+   DNI: 34966484
+   Credencial: 8000603872
    Obra social: INSSSEP AMB
    Consultas: 0
-   Recetas: 1
+   Recetas: 2
    Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
-40. DICKAU ERIC DAVID
-   DNI: 36976073
-   Credencial: 8000563290
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-41. ROMERO NILDA MARCELA
-   DNI: 25379924
-   Credencial: 8000342950
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-42. FUS RICARDO MARCELO JOSE
-   DNI: 23218576
-   Credencial: 8000439990
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-43. LOPEZ RAMON JAVIER
-   DNI: 29057853
-   Credencial: 8000365758
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-44. KONOWALCZUK BEATRIZ NOEMI
-   DNI: 20394102
-   Credencial: 8000074938
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-45. VERON CARINA
-   DNI: 30580893
-   Credencial: 8000643295
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-46. BALUK PABLO
+18. BALUK PABLO
    DNI: 8587306
    Credencial: 8000037431
    Obra social: INSSSEP AMB
    Consultas: 0
-   Recetas: 1
+   Recetas: 2
    Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
-47. TRNOVSKY GRACIELA BEATRIZ
-   DNI: 12421696
-   Credencial: 8000171788
+19. RODRIGUEZ NORMA MIGUELINA
+   DNI: 36671593
+   Credencial: 8000592014
    Obra social: INSSSEP AMB
    Consultas: 0
-   Recetas: 1
+   Recetas: 2
    Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
-48. PIEDRABUENA MARTINA
-   DNI: 4262920
-   Credencial: 8000499754
+20. BARNASTHPOL SONIA MIRTHA
+   DNI: 22236185
+   Credencial: 8000244264
    Obra social: INSSSEP AMB
    Consultas: 0
-   Recetas: 1
+   Recetas: 2
    Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
-49. VODOPIVEC AMALIA BEATRI
-   DNI: 16428747
-   Credencial: 8000064949
+21. ESPARZA VIDAL LUIS MARIA
+   DNI: 10174882
+   Credencial: 8000392741
    Obra social: INSSSEP AMB
    Consultas: 0
-   Recetas: 1
+   Recetas: 2
    Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
-50. SAWCZUK PAULINA
-   DNI: 6040902
-   Credencial: 8000018155
+22. CUR LUCILA MARISA
+   DNI: 22749988
+   Credencial: 8000425140
    Obra social: INSSSEP AMB
    Consultas: 0
-   Recetas: 1
+   Recetas: 2
    Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
-51. JUNCO CATALINA
+23. TORRES LILIANA BEATRIZ
+   DNI: 18408832
+   Credencial: 8000645950
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 2
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+24. VALEFF JUAN
+   DNI: 14274639
+   Credencial: 8000429829
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 2
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+25. KARDASZ SOLEDAD EUNICE
+   DNI: 34966508
+   Credencial: 8000627494
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 2
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+26. MUÑOZ AVRIL ARELYS
+   DNI: 59311404
+   Credencial: 8000601109
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 2
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+27. JUNCO CATALINA
    DNI: 26826534
    Credencial: 8000331541
    Obra social: INSSSEP AMB
@@ -409,335 +228,7 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Recetas: 1
    Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
-52. DULLKA GUILLERMO ABEL
-   DNI: 40035635
-   Credencial: 8000628650
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-53. KARDASZ SOLEDAD EUNICE
-   DNI: 34966508
-   Credencial: 8000627494
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-54. MOSQUEDA DANIELA AGOSTINA
-   DNI: 44385488
-   Credencial: 8000309382
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-55. GERGOFF MILOFF ROSA ALEJANDRA
-   DNI: 30188845
-   Credencial: 8000304802
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-56. ALVAREZ RAMON OMAR
-   DNI: 24465808
-   Credencial: 8000087301
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-57. KOLAKOVICH EMMA ISABELLA
-   DNI: 56224386
-   Credencial: 8000532690
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-58. VALEFF JUAN
-   DNI: 14274639
-   Credencial: 8000429829
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-59. PINTO RAMONA MIRTHA
-   DNI: 11655997
-   Credencial: 8000334902
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-60. ROBELLO MARINA ALEJANDRA
-   DNI: 31496252
-   Credencial: 8000636968
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-61. KARDASZ IVANA NOELIA
-   DNI: 32664697
-   Credencial: 8000553453
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-62. WALTER RUBEN HORACIO
-   DNI: 34966333
-   Credencial: 8000496515
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-63. PECOVICH ANDREA ALEJANDRA
-   DNI: 23981010
-   Credencial: 8000088334
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-64. GARCIA EMILIA ELISA
-   DNI: 6402986
-   Credencial: 8000020003
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-65. LEGUIZAMON RENE ENRIQUE
-   DNI: 30580968
-   Credencial: 8000426516
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-66. GEORGEFF JORGE SIMON
-   DNI: 12246895
-   Credencial: 8000226655
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-67. IVIN ABIGAIL ANAHI
-   DNI: 36671554
-   Credencial: 8000625348
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-68. KURKASZ SUSANA ELENA
-   DNI: 6402912
-   Credencial: 8000019285
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-69. BARBOZA SANDRA CAROLINA
-   DNI: 24597031
-   Credencial: 8000480740
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-70. MOSIEJCZUK MATVEY YERIK
-   DNI: 53655431
-   Credencial: 8000465264
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-71. FANDRICH CARMEN CECILIA
-   DNI: 34966525
-   Credencial: 8000607960
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-72. RAMIREZ CAROLINA ELIZABETH
-   DNI: 27025637
-   Credencial: 8000096916
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-73. BERTINO DIDIER FACUNDO
-   DNI: 53022036
-   Credencial: 8000448025
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-74. WOLOSZYN PATRICIA NOEMI
-   DNI: 27435264
-   Credencial: 8000322570
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-75. IVANOFF STOINOVSKY PEDRO
-   DNI: 16945583
-   Credencial: 8000067849
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-76. SOSA CRISTINA CEFERINA
-   DNI: 22236114
-   Credencial: 8000078585
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-77. VULGAN JOSE ALBERTO
-   DNI: 7902776
-   Credencial: 8000031553
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-78. TISERA ALMA SAMIRA AYLEN
-   DNI: 44946152
-   Credencial: 8000573728
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-79. JARA JORGE
-   DNI: 33824963
-   Credencial: 8000553461
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-80. MONZON MARIELA VANINA
-   DNI: 26826677
-   Credencial: 8000573727
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-81. ALMIRON MILENA
-   DNI: 47618206
-   Credencial: 8000419216
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-82. PAWLUK PABLO
-   DNI: 7806095
-   Credencial: 8000030121
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-83. GEORGEF WALTER DANIEL
-   DNI: 28340422
-   Credencial: 8000362454
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-84. PACHECO PRISCILA ANTONELLA
-   DNI: 47618292
-   Credencial: 8000358195
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-85. JUAREZ MARISA LEONOR
-   DNI: 20091007
-   Credencial: 8000074567
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-86. HOFLER ROCIO AMELIA I
-   DNI: 36449527
-   Credencial: 8000598585
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-87. GAWRYLUK PAOLA INES
-   DNI: 28340620
-   Credencial: 8000431019
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-88. ROJAS MARISA RAQUEL
-   DNI: 31887089
-   Credencial: 8000535595
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-89. MANSILLA TICIANA PAZ
-   DNI: 49199966
-   Credencial: 8000388019
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-90. FERNANDEZ CARLA ABRIL
-   DNI: 49841489
-   Credencial: 8000400294
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-91. BARNASTHPOL SONIA MIRTHA
-   DNI: 22236185
-   Credencial: 8000244264
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-92. KAVGIC CLARA INES
-   DNI: 42276509
-   Credencial: 8000300510
-   Obra social: INSSSEP AMB
-   Consultas: 0
-   Recetas: 1
-   Diagnóstico: B349, J029, Z000, J129, T784
---------------------------------------------------
-93. SLAVIK SUSANA AURORA
+28. SLAVIK SUSANA AURORA
    DNI: 17398641
    Credencial: 8000518710
    Obra social: INSSSEP AMB
@@ -745,9 +236,361 @@ LISTADO DE AFILIADOS INSSSEP AMB Y CANTIDAD DE RECETAS
    Recetas: 1
    Diagnóstico: B349, J029, Z000, J129, T784
 --------------------------------------------------
-94. KARDASZ ORNELLA LILIANA
-   DNI: 36976060
-   Credencial: 8000639369
+29. PILIPCHUK EFRAIN ESTANISLAO
+   DNI: 38385808
+   Credencial: 8000612332
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+30. CATALAN EMILI AYLEN
+   DNI: 49199906
+   Credencial: 8000535751
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+31. ZUBCO KUVASZUK MIRTA LILIANA
+   DNI: 22933327
+   Credencial: 8000079505
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+32. NAGORNY ALBA IRIS
+   DNI: 28340455
+   Credencial: 8000312622
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+33. ROMERO NILDA MARCELA
+   DNI: 25379924
+   Credencial: 8000342950
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+34. SIRICH JULIO OSCAR
+   DNI: 14220012
+   Credencial: 8000058174
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+35. ALMIRON MILENA
+   DNI: 47618206
+   Credencial: 8000419216
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+36. RAMOS MEZA DAVID MISAEL
+   DNI: 56585160
+   Credencial: 8000542756
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+37. GARCIA EMILIA ELISA
+   DNI: 6402986
+   Credencial: 8000020003
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+   .
+
+
+
+
+
+
+
+
+
+
+   HASTA ACA LLEGUE
+
+
+
+
+
+
+
+
+
+
+
+
+   
+--------------------------------------------------
+38. SCHAFFINO GILBERTO RUBEN
+   DNI: 7806097
+   Credencial: 8000212366
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+39. TRNOVSKY GRACIELA BEATRIZ
+   DNI: 12421696
+   Credencial: 8000171788
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+40. MOSQUEDA DANIELA AGOSTINA
+   DNI: 44385488
+   Credencial: 8000309382
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+41. GERGOFF MILOFF ROSA ALEJANDRA
+   DNI: 30188845
+   Credencial: 8000304802
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+42. KONOWALCZUK BEATRIZ NOEMI
+   DNI: 20394102
+   Credencial: 8000074938
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+43. DIAZ ARIEL AGUSTIN
+   DNI: 47225082
+   Credencial: 8000414942
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+44. BENITEZ INES VILMA VIVIANA
+   DNI: 17495661
+   Credencial: 8000343136
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+45. CONTRERAS PETRONA
+   DNI: 5962452
+   Credencial: 8000017223
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+46. JARA KARDASZ MICAL
+   DNI: 59848842
+   Credencial: 8000620048
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+47. BUSTAMANTE MARISA ISABEL
+   DNI: 20276614
+   Credencial: 8000468410
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+48. ESPINOZA MERCEDES ALICIA
+   DNI: 28340376
+   Credencial: 8000407680
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+49. SZKAMARDA IVAN EMANUEL
+   DNI: 46077928
+   Credencial: 8000329693
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+
+
+
+
+
+
+50. NAMTZ NOEMI GLADYS
+   DNI: 14220001
+   Credencial: 8000081954
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+51. BERTINO RICARDO OSVALDO
+   DNI: 12680025
+   Credencial: 8000085610
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+52. LOPEZ RAMONA MERCEDES
+   DNI: 16428744
+   Credencial: 8000064771
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+53. MUÑOZ BENICCIO MATTEO
+   DNI: 56327714
+   Credencial: 8000534101
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+54. DALKE IRMA ELENA
+   DNI: 18199339
+   Credencial: 8000097918
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+55. FERNANDEZ CLAUDIA MABEL
+   DNI: 25132301
+   Credencial: 8000377601
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+56. AYALA, TAMARA ELIZABETH
+   DNI: 35686560
+   Credencial: 8000605246
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+57. PILIPZUK AILYN GIANELLA
+   DNI: 55054261
+   Credencial: 8000526147
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+58. SCHAFFINO PRISCILA ARACELI
+   DNI: 34614629
+   Credencial: 8000479720
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+59. MOREIRA EVA MARIA
+   DNI: 59147744
+   Credencial: 8000597556
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+60. IVIN ABIGAIL ANAHI
+   DNI: 36671554
+   Credencial: 8000625348
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+61. CARDOZO GLORIA BEATRIZ
+   DNI: 17760508
+   Credencial: 8000071392
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+62. CARDOZO MIRIAM EDITH
+   DNI: 20868419
+   Credencial: 8000076129
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+63. KAVGIC ALDANA BELEN
+   DNI: 39180340
+   Credencial: 8000604276
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+64. CABAÑA ANDREA SOLEDAD
+   DNI: 33615019
+   Credencial: 8000490975
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+65. FERNANDEZ CARLA ABRIL
+   DNI: 49841489
+   Credencial: 8000587748
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+66. NUSBAUM NESTOR J
+   DNI: 25519915
+   Credencial: 8000645803
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+67. MUÑOZ HUGO JAVIER
+   DNI: 32935243
+   Credencial: 8000438409
+   Obra social: INSSSEP AMB
+   Consultas: 0
+   Recetas: 1
+   Diagnóstico: B349, J029, Z000, J129, T784
+--------------------------------------------------
+68. VODOPIVEC, LUIS DANIEL
+   DNI: 39776501
+   Credencial: 8000612546
    Obra social: INSSSEP AMB
    Consultas: 0
    Recetas: 1
